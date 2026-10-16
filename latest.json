@@ -2,72 +2,62 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-16T04:22:00+03:00",
-  "source_run_id": "38834776579",
+  "generated_at": "2026-10-16T08:18:00+03:00",
+  "source_run_id": "38855036625",
   "scanned_count": 90,
-  "qualified_count": 6,
-  "listed_count": 6,
-  "excluded_or_unavailable_count": 84,
+  "qualified_count": 5,
+  "listed_count": 5,
+  "excluded_or_unavailable_count": 85,
   "results": [
     {
-      "symbol": "ANIME-USDT-SWAP",
-      "max5": 6.84,
-      "n2": 5,
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 4.79,
+      "n2": 3,
       "count": 24,
-      "n3": 3,
-      "max15": 6.84,
-      "vol1h": 2500000.0,
+      "n3": 2,
+      "max15": 7.2,
+      "vol1h": 3100000.0,
       "spread": 0.031
     },
     {
-      "symbol": "KORU-USDT-SWAP",
-      "max5": 3.57,
-      "n2": 2,
+      "symbol": "CHIP-USDT-SWAP",
+      "max5": 2.8,
+      "n2": 4,
       "count": 24,
-      "n3": 1,
-      "max15": 4.06,
-      "vol1h": 7200000.0,
-      "spread": 0.084
+      "n3": 0,
+      "max15": 4.35,
+      "vol1h": 1200000.0,
+      "spread": 0.02
     },
     {
-      "symbol": "SKDD-USDT-SWAP",
-      "max5": 3.51,
-      "n2": 1,
+      "symbol": "INJ-USDT-SWAP",
+      "max5": 2.86,
+      "n2": 2,
       "count": 24,
-      "n3": 1,
-      "max15": 3.51,
-      "vol1h": 619000.0,
-      "spread": 0.036
+      "n3": 0,
+      "max15": 4.14,
+      "vol1h": 9200000.0,
+      "spread": 0.011
     },
     {
       "symbol": "BAT-USDT-SWAP",
-      "max5": 2.61,
-      "n2": 2,
-      "count": 24,
-      "n3": 0,
-      "max15": 3.96,
-      "vol1h": 4700000.0,
-      "spread": 0.01
-    },
-    {
-      "symbol": "ZRO-USDT-SWAP",
-      "max5": 2.61,
+      "max5": 2.7,
       "n2": 1,
       "count": 24,
       "n3": 0,
-      "max15": 4.0,
-      "vol1h": 2900000.0,
-      "spread": 0.032
+      "max15": 3.67,
+      "vol1h": 2400000.0,
+      "spread": 0.005
     },
     {
-      "symbol": "AKE-USDT-SWAP",
-      "max5": 2.74,
+      "symbol": "ZEC-USDT-SWAP",
+      "max5": 2.69,
       "n2": 1,
       "count": 24,
       "n3": 0,
-      "max15": 3.73,
-      "vol1h": 2000000.0,
-      "spread": 0.031
+      "max15": 3.2,
+      "vol1h": 55800000.0,
+      "spread": 0.001
     }
   ],
   "values_precision": "original_printed_report",
@@ -81,5 +71,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
