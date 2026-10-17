@@ -2,52 +2,62 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-17T04:24:00+03:00",
-  "source_run_id": "38990681160",
+  "generated_at": "2026-10-17T08:14:00+03:00",
+  "source_run_id": "39005545395",
   "scanned_count": 90,
-  "qualified_count": 4,
-  "listed_count": 4,
-  "excluded_or_unavailable_count": 86,
+  "qualified_count": 5,
+  "listed_count": 5,
+  "excluded_or_unavailable_count": 85,
   "results": [
     {
       "symbol": "DNA-USDT-SWAP",
-      "max5": 5.53,
-      "n2": 16,
+      "max5": 8.63,
+      "n2": 12,
       "count": 24,
-      "n3": 9,
-      "max15": 7.46,
-      "vol1h": 2500000.0,
-      "spread": 0.071
+      "n3": 6,
+      "max15": 10.82,
+      "vol1h": 4600000.0,
+      "spread": 0.1
+    },
+    {
+      "symbol": "TIA-USDT-SWAP",
+      "max5": 6.48,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 8.17,
+      "vol1h": 17200000.0,
+      "spread": 0.013
+    },
+    {
+      "symbol": "TRUTH-USDT-SWAP",
+      "max5": 4.51,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.82,
+      "vol1h": 849000.0,
+      "spread": 0.022
     },
     {
       "symbol": "BASED-USDT-SWAP",
-      "max5": 5.06,
-      "n2": 4,
-      "count": 24,
-      "n3": 2,
-      "max15": 6.58,
-      "vol1h": 3400000.0,
-      "spread": 0.037
-    },
-    {
-      "symbol": "BZ-USDT-SWAP",
-      "max5": 3.32,
-      "n2": 1,
+      "max5": 5.08,
+      "n2": 3,
       "count": 24,
       "n3": 1,
-      "max15": 3.51,
-      "vol1h": 5000000.0,
-      "spread": 0.009
+      "max15": 5.08,
+      "vol1h": 1200000.0,
+      "spread": 0.041
     },
     {
-      "symbol": "CL-USDT-SWAP",
+      "symbol": "EIGEN-USDT-SWAP",
       "max5": 2.51,
-      "n2": 2,
+      "n2": 1,
       "count": 24,
       "n3": 0,
-      "max15": 2.72,
-      "vol1h": 7800000.0,
-      "spread": 0.01
+      "max15": 3.86,
+      "vol1h": 3400000.0,
+      "spread": 0.036
     }
   ],
   "values_precision": "original_printed_report",
@@ -61,5 +71,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
