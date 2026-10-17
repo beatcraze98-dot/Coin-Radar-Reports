@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-18T00:12:00+03:00",
+  "source_run_id": "39069913115",
+  "scanned_count": 88,
+  "qualified_count": 0,
+  "listed_count": 0,
+  "excluded_or_unavailable_count": 88,
+  "results": [],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 1
+}
