@@ -2,42 +2,72 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-18T20:13:00+03:00",
-  "source_run_id": "39148585692",
+  "generated_at": "2026-10-19T00:11:00+03:00",
+  "source_run_id": "39166677896",
   "scanned_count": 90,
-  "qualified_count": 3,
-  "listed_count": 3,
-  "excluded_or_unavailable_count": 87,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 84,
   "results": [
     {
-      "symbol": "AEON-USDT-SWAP",
-      "max5": 10.59,
+      "symbol": "DNA-USDT-SWAP",
+      "max5": 4.83,
       "n2": 7,
       "count": 24,
-      "n3": 3,
-      "max15": 12.4,
-      "vol1h": 2200000.0,
-      "spread": 0.108
+      "n3": 1,
+      "max15": 6.75,
+      "vol1h": 2400000.0,
+      "spread": 0.039
     },
     {
-      "symbol": "DNA-USDT-SWAP",
-      "max5": 3.96,
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 7.41,
+      "n2": 2,
+      "count": 24,
+      "n3": 2,
+      "max15": 8.71,
+      "vol1h": 906000.0,
+      "spread": 0.034
+    },
+    {
+      "symbol": "PUMP-USDT-SWAP",
+      "max5": 4.17,
       "n2": 4,
       "count": 24,
       "n3": 1,
-      "max15": 4.93,
-      "vol1h": 1600000.0,
-      "spread": 0.08
+      "max15": 6.0,
+      "vol1h": 8400000.0,
+      "spread": 0.025
     },
     {
-      "symbol": "PONS-USDT-SWAP",
-      "max5": 3.1,
+      "symbol": "AEON-USDT-SWAP",
+      "max5": 4.99,
       "n2": 1,
       "count": 24,
       "n3": 1,
-      "max15": 3.65,
-      "vol1h": 1800000.0,
-      "spread": 0.039
+      "max15": 4.99,
+      "vol1h": 546000.0,
+      "spread": 0.029
+    },
+    {
+      "symbol": "SAND-USDT-SWAP",
+      "max5": 2.77,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.38,
+      "vol1h": 1600000.0,
+      "spread": 0.018
+    },
+    {
+      "symbol": "PONS-USDT-SWAP",
+      "max5": 2.53,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.33,
+      "vol1h": 769000.0,
+      "spread": 0.041
     }
   ],
   "values_precision": "original_printed_report",
@@ -51,5 +81,5 @@
     16,
     20
   ],
-  "daily_report_count": 6
+  "daily_report_count": 1
 }
