@@ -2,22 +2,42 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-18T08:15:00+03:00",
-  "source_run_id": "39099904352",
+  "generated_at": "2026-10-18T12:13:00+03:00",
+  "source_run_id": "39114498022",
   "scanned_count": 90,
-  "qualified_count": 1,
-  "listed_count": 1,
-  "excluded_or_unavailable_count": 89,
+  "qualified_count": 3,
+  "listed_count": 3,
+  "excluded_or_unavailable_count": 87,
   "results": [
     {
       "symbol": "DNA-USDT-SWAP",
-      "max5": 3.74,
-      "n2": 7,
+      "max5": 3.23,
+      "n2": 2,
       "count": 24,
-      "n3": 2,
-      "max15": 4.63,
-      "vol1h": 5100000.0,
-      "spread": 0.035
+      "n3": 1,
+      "max15": 3.6,
+      "vol1h": 2900000.0,
+      "spread": 0.071
+    },
+    {
+      "symbol": "SAND-USDT-SWAP",
+      "max5": 6.41,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 7.07,
+      "vol1h": 10800000.0,
+      "spread": 0.016
+    },
+    {
+      "symbol": "STRK-USDT-SWAP",
+      "max5": 2.73,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.09,
+      "vol1h": 5900000.0,
+      "spread": 0.016
     }
   ],
   "values_precision": "original_printed_report",
@@ -31,5 +51,5 @@
     16,
     20
   ],
-  "daily_report_count": 3
+  "daily_report_count": 4
 }
