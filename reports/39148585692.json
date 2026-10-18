@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-18T20:13:00+03:00",
+  "source_run_id": "39148585692",
+  "scanned_count": 90,
+  "qualified_count": 3,
+  "listed_count": 3,
+  "excluded_or_unavailable_count": 87,
+  "results": [
+    {
+      "symbol": "AEON-USDT-SWAP",
+      "max5": 10.59,
+      "n2": 7,
+      "count": 24,
+      "n3": 3,
+      "max15": 12.4,
+      "vol1h": 2200000.0,
+      "spread": 0.108
+    },
+    {
+      "symbol": "DNA-USDT-SWAP",
+      "max5": 3.96,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.93,
+      "vol1h": 1600000.0,
+      "spread": 0.08
+    },
+    {
+      "symbol": "PONS-USDT-SWAP",
+      "max5": 3.1,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.65,
+      "vol1h": 1800000.0,
+      "spread": 0.039
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 6
+}
