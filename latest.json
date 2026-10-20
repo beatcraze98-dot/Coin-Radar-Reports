@@ -2,62 +2,52 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-20T04:26:00+03:00",
-  "source_run_id": "39353380042",
+  "generated_at": "2026-10-20T08:18:00+03:00",
+  "source_run_id": "39374136690",
   "scanned_count": 90,
-  "qualified_count": 5,
-  "listed_count": 5,
-  "excluded_or_unavailable_count": 85,
+  "qualified_count": 4,
+  "listed_count": 4,
+  "excluded_or_unavailable_count": 86,
   "results": [
     {
-      "symbol": "SKDD-USDT-SWAP",
-      "max5": 2.87,
-      "n2": 2,
+      "symbol": "GRVT-USDT-SWAP",
+      "max5": 6.78,
+      "n2": 3,
       "count": 24,
-      "n3": 0,
-      "max15": 6.02,
-      "vol1h": 2900000.0,
-      "spread": 0.008
-    },
-    {
-      "symbol": "DNA-USDT-SWAP",
-      "max5": 2.33,
-      "n2": 2,
-      "count": 24,
-      "n3": 0,
-      "max15": 3.22,
-      "vol1h": 1300000.0,
-      "spread": 0.043
-    },
-    {
-      "symbol": "KORU-USDT-SWAP",
-      "max5": 2.84,
-      "n2": 2,
-      "count": 24,
-      "n3": 0,
-      "max15": 4.68,
-      "vol1h": 15800000.0,
-      "spread": 0.09
-    },
-    {
-      "symbol": "CT-USDT-SWAP",
-      "max5": 2.99,
-      "n2": 1,
-      "count": 24,
-      "n3": 0,
-      "max15": 4.04,
-      "vol1h": 2600000.0,
+      "n3": 1,
+      "max15": 7.65,
+      "vol1h": 3100000.0,
       "spread": 0.06
     },
     {
       "symbol": "APR-USDT-SWAP",
-      "max5": 2.59,
+      "max5": 3.27,
+      "n2": 2,
+      "count": 24,
+      "n3": 2,
+      "max15": 3.27,
+      "vol1h": 979000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "CT-USDT-SWAP",
+      "max5": 3.54,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.86,
+      "vol1h": 8600000.0,
+      "spread": 0.065
+    },
+    {
+      "symbol": "DNA-USDT-SWAP",
+      "max5": 3.74,
       "n2": 1,
       "count": 24,
-      "n3": 0,
-      "max15": 3.43,
-      "vol1h": 1400000.0,
-      "spread": 0.035
+      "n3": 1,
+      "max15": 5.13,
+      "vol1h": 1000000.0,
+      "spread": 0.088
     }
   ],
   "values_precision": "original_printed_report",
@@ -71,5 +61,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
