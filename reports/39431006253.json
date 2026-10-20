@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-20T16:30:00+03:00",
+  "source_run_id": "39431006253",
+  "scanned_count": 90,
+  "qualified_count": 3,
+  "listed_count": 3,
+  "excluded_or_unavailable_count": 87,
+  "results": [
+    {
+      "symbol": "APR-USDT-SWAP",
+      "max5": 9.96,
+      "n2": 17,
+      "count": 24,
+      "n3": 11,
+      "max15": 15.32,
+      "vol1h": 14300000.0,
+      "spread": 0.032
+    },
+    {
+      "symbol": "ZRO-USDT-SWAP",
+      "max5": 6.55,
+      "n2": 2,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.51,
+      "vol1h": 4200000.0,
+      "spread": 0.006
+    },
+    {
+      "symbol": "GRVT-USDT-SWAP",
+      "max5": 3.94,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.12,
+      "vol1h": 4099999.9999999995,
+      "spread": 0.065
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 5
+}
