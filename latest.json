@@ -2,52 +2,52 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-21T04:27:00+03:00",
-  "source_run_id": "39527370726",
+  "generated_at": "2026-10-21T08:19:00+03:00",
+  "source_run_id": "39548873505",
   "scanned_count": 90,
   "qualified_count": 4,
   "listed_count": 4,
   "excluded_or_unavailable_count": 86,
   "results": [
     {
+      "symbol": "IOST-USDT-SWAP",
+      "max5": 9.44,
+      "n2": 20,
+      "count": 24,
+      "n3": 16,
+      "max15": 17.92,
+      "vol1h": 5600000.0,
+      "spread": 0.046
+    },
+    {
       "symbol": "DOOD-USDT-SWAP",
-      "max5": 10.99,
+      "max5": 5.43,
       "n2": 18,
       "count": 24,
-      "n3": 9,
-      "max15": 12.89,
-      "vol1h": 18200000.0,
-      "spread": 0.08
+      "n3": 7,
+      "max15": 8.15,
+      "vol1h": 16900000.0,
+      "spread": 0.067
     },
     {
-      "symbol": "IOST-USDT-SWAP",
-      "max5": 5.03,
-      "n2": 10,
-      "count": 24,
-      "n3": 4,
-      "max15": 10.15,
-      "vol1h": 2800000.0,
-      "spread": 0.041
-    },
-    {
-      "symbol": "APR-USDT-SWAP",
-      "max5": 3.86,
-      "n2": 1,
-      "count": 24,
-      "n3": 1,
-      "max15": 4.36,
-      "vol1h": 1600000.0,
-      "spread": 0.032
-    },
-    {
-      "symbol": "KORU-USDT-SWAP",
-      "max5": 2.3,
-      "n2": 3,
+      "symbol": "DNA-USDT-SWAP",
+      "max5": 2.45,
+      "n2": 6,
       "count": 24,
       "n3": 0,
-      "max15": 3.57,
-      "vol1h": 7900000.0,
-      "spread": 0.082
+      "max15": 4.05,
+      "vol1h": 706000.0,
+      "spread": 0.042
+    },
+    {
+      "symbol": "MEW-USDT-SWAP",
+      "max5": 2.34,
+      "n2": 5,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.53,
+      "vol1h": 1900000.0,
+      "spread": 0.019
     }
   ],
   "values_precision": "original_printed_report",
@@ -61,5 +61,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
