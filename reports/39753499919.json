@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-22T12:11:00+03:00",
+  "source_run_id": "39753499919",
+  "scanned_count": 90,
+  "qualified_count": 7,
+  "listed_count": 7,
+  "excluded_or_unavailable_count": 83,
+  "results": [
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 19.11,
+      "n2": 13,
+      "count": 24,
+      "n3": 10,
+      "max15": 21.79,
+      "vol1h": 11700000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 5.73,
+      "n2": 10,
+      "count": 24,
+      "n3": 4,
+      "max15": 7.22,
+      "vol1h": 3500000.0,
+      "spread": 0.051
+    },
+    {
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 3.91,
+      "n2": 9,
+      "count": 24,
+      "n3": 4,
+      "max15": 6.6,
+      "vol1h": 2600000.0,
+      "spread": 0.075
+    },
+    {
+      "symbol": "BILL-USDT-SWAP",
+      "max5": 4.14,
+      "n2": 5,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.28,
+      "vol1h": 2200000.0,
+      "spread": 0.032
+    },
+    {
+      "symbol": "DNA-USDT-SWAP",
+      "max5": 3.35,
+      "n2": 4,
+      "count": 24,
+      "n3": 2,
+      "max15": 3.35,
+      "vol1h": 787000.0,
+      "spread": 0.101
+    },
+    {
+      "symbol": "PARTI-USDT-SWAP",
+      "max5": 4.95,
+      "n2": 3,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.3,
+      "vol1h": 715000.0,
+      "spread": 0.09
+    },
+    {
+      "symbol": "DOOD-USDT-SWAP",
+      "max5": 2.15,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 2.71,
+      "vol1h": 2600000.0,
+      "spread": 0.045
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 4
+}
