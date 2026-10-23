@@ -2,8 +2,8 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-23T08:05:00+03:00",
-  "source_run_id": "39903772390",
+  "generated_at": "2026-10-23T12:08:00+03:00",
+  "source_run_id": "39929730227",
   "scanned_count": 90,
   "qualified_count": 5,
   "listed_count": 5,
@@ -11,53 +11,53 @@
   "results": [
     {
       "symbol": "IRYS-USDT-SWAP",
-      "max5": 7.09,
-      "n2": 21,
+      "max5": 8.7,
+      "n2": 19,
       "count": 24,
-      "n3": 10,
-      "max15": 9.65,
-      "vol1h": 8100000.0,
-      "spread": 0.038
+      "n3": 12,
+      "max15": 14.13,
+      "vol1h": 21800000.0,
+      "spread": 0.059
     },
     {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 7.38,
-      "n2": 13,
+      "max5": 15.08,
+      "n2": 12,
       "count": 24,
-      "n3": 10,
-      "max15": 13.38,
-      "vol1h": 10600000.0,
-      "spread": 0.028
+      "n3": 5,
+      "max15": 18.37,
+      "vol1h": 3400000.0,
+      "spread": 0.029
     },
     {
       "symbol": "BTW-USDT-SWAP",
-      "max5": 8.82,
+      "max5": 7.6,
       "n2": 10,
       "count": 24,
       "n3": 6,
-      "max15": 9.68,
+      "max15": 13.26,
       "vol1h": 2600000.0,
-      "spread": 0.052
-    },
-    {
-      "symbol": "AXIS-USDT-SWAP",
-      "max5": 4.15,
-      "n2": 4,
-      "count": 24,
-      "n3": 1,
-      "max15": 4.15,
-      "vol1h": 573000.0,
-      "spread": 0.146
+      "spread": 0.025
     },
     {
       "symbol": "DNA-USDT-SWAP",
-      "max5": 2.44,
-      "n2": 2,
+      "max5": 8.62,
+      "n2": 11,
+      "count": 24,
+      "n3": 4,
+      "max15": 12.5,
+      "vol1h": 2600000.0,
+      "spread": 0.048
+    },
+    {
+      "symbol": "PEPE-USDT-SWAP",
+      "max5": 2.29,
+      "n2": 3,
       "count": 24,
       "n3": 0,
-      "max15": 3.46,
-      "vol1h": 788000.0,
-      "spread": 0.051
+      "max15": 4.66,
+      "vol1h": 35200000.0,
+      "spread": 0.02
     }
   ],
   "values_precision": "original_printed_report",
@@ -71,5 +71,5 @@
     16,
     20
   ],
-  "daily_report_count": 3
+  "daily_report_count": 4
 }
