@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-24T04:20:00+03:00",
+  "source_run_id": "40049355509",
+  "scanned_count": 90,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 84,
+  "results": [
+    {
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 15.15,
+      "n2": 23,
+      "count": 24,
+      "n3": 20,
+      "max15": 18.46,
+      "vol1h": 7600000.0,
+      "spread": 0.092
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 23.28,
+      "n2": 22,
+      "count": 24,
+      "n3": 19,
+      "max15": 31.17,
+      "vol1h": 24600000.0,
+      "spread": 0.078
+    },
+    {
+      "symbol": "DOS-USDT-SWAP",
+      "max5": 8.22,
+      "n2": 16,
+      "count": 24,
+      "n3": 12,
+      "max15": 11.31,
+      "vol1h": 4000000.0,
+      "spread": 0.075
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 7.11,
+      "n2": 13,
+      "count": 24,
+      "n3": 7,
+      "max15": 12.83,
+      "vol1h": 4800000.0,
+      "spread": 0.057
+    },
+    {
+      "symbol": "DNA-USDT-SWAP",
+      "max5": 4.33,
+      "n2": 5,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.66,
+      "vol1h": 634000.0,
+      "spread": 0.053
+    },
+    {
+      "symbol": "DOOD-USDT-SWAP",
+      "max5": 2.38,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.04,
+      "vol1h": 529000.0,
+      "spread": 0.063
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
