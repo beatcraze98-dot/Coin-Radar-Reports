@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-24T16:10:00+03:00",
+  "source_run_id": "40096957962",
+  "scanned_count": 90,
+  "qualified_count": 8,
+  "listed_count": 8,
+  "excluded_or_unavailable_count": 82,
+  "results": [
+    {
+      "symbol": "ORDER-USDT-SWAP",
+      "max5": 18.71,
+      "n2": 24,
+      "count": 24,
+      "n3": 24,
+      "max15": 28.48,
+      "vol1h": 39800000.0,
+      "spread": 0.056
+    },
+    {
+      "symbol": "LIGHT-USDT-SWAP",
+      "max5": 14.34,
+      "n2": 22,
+      "count": 24,
+      "n3": 17,
+      "max15": 21.9,
+      "vol1h": 5600000.0,
+      "spread": 0.036
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 10.18,
+      "n2": 21,
+      "count": 24,
+      "n3": 15,
+      "max15": 12.64,
+      "vol1h": 9700000.0,
+      "spread": 0.046
+    },
+    {
+      "symbol": "KAT-USDT-SWAP",
+      "max5": 29.18,
+      "n2": 12,
+      "count": 24,
+      "n3": 7,
+      "max15": 37.09,
+      "vol1h": 1600000.0,
+      "spread": 0.068
+    },
+    {
+      "symbol": "LA-USDT-SWAP",
+      "max5": 10.57,
+      "n2": 7,
+      "count": 24,
+      "n3": 3,
+      "max15": 13.67,
+      "vol1h": 749000.0,
+      "spread": 0.063
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 3.72,
+      "n2": 6,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.82,
+      "vol1h": 2500000.0,
+      "spread": 0.033
+    },
+    {
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 3.08,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.12,
+      "vol1h": 988000.0,
+      "spread": 0.113
+    },
+    {
+      "symbol": "CAP-USDT-SWAP",
+      "max5": 3.12,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.66,
+      "vol1h": 1100000.0,
+      "spread": 0.054
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 5
+}
