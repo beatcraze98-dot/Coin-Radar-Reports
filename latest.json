@@ -2,72 +2,72 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-24T04:20:00+03:00",
-  "source_run_id": "40049355509",
+  "generated_at": "2026-10-24T08:01:00+03:00",
+  "source_run_id": "40064649480",
   "scanned_count": 90,
   "qualified_count": 6,
   "listed_count": 6,
   "excluded_or_unavailable_count": 84,
   "results": [
     {
-      "symbol": "AXIS-USDT-SWAP",
-      "max5": 15.15,
-      "n2": 23,
-      "count": 24,
-      "n3": 20,
-      "max15": 18.46,
-      "vol1h": 7600000.0,
-      "spread": 0.092
-    },
-    {
       "symbol": "IRYS-USDT-SWAP",
-      "max5": 23.28,
+      "max5": 13.92,
       "n2": 22,
       "count": 24,
-      "n3": 19,
-      "max15": 31.17,
-      "vol1h": 24600000.0,
-      "spread": 0.078
+      "n3": 18,
+      "max15": 19.37,
+      "vol1h": 23400000.0,
+      "spread": 0.044
     },
     {
-      "symbol": "DOS-USDT-SWAP",
-      "max5": 8.22,
-      "n2": 16,
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 5.61,
+      "n2": 12,
       "count": 24,
-      "n3": 12,
-      "max15": 11.31,
-      "vol1h": 4000000.0,
-      "spread": 0.075
+      "n3": 4,
+      "max15": 6.81,
+      "vol1h": 1700000.0,
+      "spread": 0.124
     },
     {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 7.11,
-      "n2": 13,
+      "max5": 10.81,
+      "n2": 8,
       "count": 24,
-      "n3": 7,
-      "max15": 12.83,
-      "vol1h": 4800000.0,
-      "spread": 0.057
-    },
-    {
-      "symbol": "DNA-USDT-SWAP",
-      "max5": 4.33,
-      "n2": 5,
-      "count": 24,
-      "n3": 2,
-      "max15": 7.66,
-      "vol1h": 634000.0,
+      "n3": 3,
+      "max15": 15.23,
+      "vol1h": 7500000.0,
       "spread": 0.053
     },
     {
-      "symbol": "DOOD-USDT-SWAP",
-      "max5": 2.38,
-      "n2": 3,
+      "symbol": "CP-USDT-SWAP",
+      "max5": 3.59,
+      "n2": 8,
       "count": 24,
-      "n3": 0,
-      "max15": 4.04,
-      "vol1h": 529000.0,
-      "spread": 0.063
+      "n3": 2,
+      "max15": 5.02,
+      "vol1h": 1100000.0,
+      "spread": 0.018
+    },
+    {
+      "symbol": "DOS-USDT-SWAP",
+      "max5": 3.63,
+      "n2": 6,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.32,
+      "vol1h": 693000.0,
+      "spread": 0.078
+    },
+    {
+      "symbol": "DOOD-USDT-SWAP",
+      "max5": 3.74,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.53,
+      "vol1h": 512000.0,
+      "spread": 0.122
     }
   ],
   "values_precision": "original_printed_report",
@@ -81,5 +81,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
