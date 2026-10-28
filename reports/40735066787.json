@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-28T20:22:00+03:00",
+  "source_run_id": "40735066787",
+  "scanned_count": 90,
+  "qualified_count": 11,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 79,
+  "results": [
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 8.21,
+      "n2": 23,
+      "count": 24,
+      "n3": 14,
+      "max15": 10.84,
+      "vol1h": 11600000.0,
+      "spread": 0.062
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 4.24,
+      "n2": 9,
+      "count": 24,
+      "n3": 5,
+      "max15": 6.09,
+      "vol1h": 4200000.0,
+      "spread": 0.045
+    },
+    {
+      "symbol": "DOS-USDT-SWAP",
+      "max5": 4.41,
+      "n2": 8,
+      "count": 24,
+      "n3": 5,
+      "max15": 5.77,
+      "vol1h": 5500000.0,
+      "spread": 0.091
+    },
+    {
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 7.09,
+      "n2": 10,
+      "count": 24,
+      "n3": 3,
+      "max15": 9.42,
+      "vol1h": 2700000.0,
+      "spread": 0.118
+    },
+    {
+      "symbol": "BLUR-USDT-SWAP",
+      "max5": 4.57,
+      "n2": 5,
+      "count": 24,
+      "n3": 2,
+      "max15": 6.14,
+      "vol1h": 918000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "APR-USDT-SWAP",
+      "max5": 5.46,
+      "n2": 6,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.65,
+      "vol1h": 2500000.0,
+      "spread": 0.02
+    },
+    {
+      "symbol": "BEAT-USDT-SWAP",
+      "max5": 5.8,
+      "n2": 2,
+      "count": 24,
+      "n3": 2,
+      "max15": 6.7,
+      "vol1h": 590000.0,
+      "spread": 0.012
+    },
+    {
+      "symbol": "CAP-USDT-SWAP",
+      "max5": 2.96,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.67,
+      "vol1h": 672000.0,
+      "spread": 0.041
+    },
+    {
+      "symbol": "CHIP-USDT-SWAP",
+      "max5": 3.54,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.11,
+      "vol1h": 864000.0,
+      "spread": 0.021
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 2.48,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.17,
+      "vol1h": 919000.0,
+      "spread": 0.042
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 6
+}
