@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-10-30T00:15:00+03:00",
+  "source_run_id": "40956271551",
+  "scanned_count": 90,
+  "qualified_count": 67,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 23,
+  "results": [
+    {
+      "symbol": "PARTI-USDT-SWAP",
+      "max5": 8.32,
+      "n2": 24,
+      "count": 24,
+      "n3": 19,
+      "max15": 13.93,
+      "vol1h": 7500000.0,
+      "spread": 0.088
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 10.44,
+      "n2": 12,
+      "count": 24,
+      "n3": 9,
+      "max15": 14.81,
+      "vol1h": 20700000.0,
+      "spread": 0.011
+    },
+    {
+      "symbol": "LIT-USDT-SWAP",
+      "max5": 7.05,
+      "n2": 10,
+      "count": 24,
+      "n3": 6,
+      "max15": 11.05,
+      "vol1h": 17200000.0,
+      "spread": 0.003
+    },
+    {
+      "symbol": "INTC-USDT-SWAP",
+      "max5": 28.14,
+      "n2": 9,
+      "count": 24,
+      "n3": 5,
+      "max15": 29.67,
+      "vol1h": 46500000.0,
+      "spread": 0.027
+    },
+    {
+      "symbol": "USELESS-USDT-SWAP",
+      "max5": 4.04,
+      "n2": 8,
+      "count": 24,
+      "n3": 4,
+      "max15": 10.71,
+      "vol1h": 3600000.0,
+      "spread": 0.021
+    },
+    {
+      "symbol": "ENA-USDT-SWAP",
+      "max5": 3.93,
+      "n2": 8,
+      "count": 24,
+      "n3": 4,
+      "max15": 9.75,
+      "vol1h": 27800000.0,
+      "spread": 0.011
+    },
+    {
+      "symbol": "AXTI-USDT-SWAP",
+      "max5": 11.49,
+      "n2": 8,
+      "count": 24,
+      "n3": 3,
+      "max15": 11.49,
+      "vol1h": 5400000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 5.07,
+      "n2": 7,
+      "count": 24,
+      "n3": 3,
+      "max15": 9.63,
+      "vol1h": 993000.0,
+      "spread": 0.071
+    },
+    {
+      "symbol": "AMZN-USDT-SWAP",
+      "max5": 14.08,
+      "n2": 6,
+      "count": 24,
+      "n3": 3,
+      "max15": 14.69,
+      "vol1h": 12600000.0,
+      "spread": 0.039
+    },
+    {
+      "symbol": "BTW-USDT-SWAP",
+      "max5": 5.51,
+      "n2": 6,
+      "count": 24,
+      "n3": 3,
+      "max15": 7.15,
+      "vol1h": 1800000.0,
+      "spread": 0.027
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 1
+}
