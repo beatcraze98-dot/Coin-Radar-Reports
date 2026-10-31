@@ -2,72 +2,52 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-31T08:15:00+03:00",
-  "source_run_id": "41171838780",
+  "generated_at": "2026-10-31T12:15:00+03:00",
+  "source_run_id": "41187956778",
   "scanned_count": 90,
-  "qualified_count": 6,
-  "listed_count": 6,
-  "excluded_or_unavailable_count": 84,
+  "qualified_count": 4,
+  "listed_count": 4,
+  "excluded_or_unavailable_count": 86,
   "results": [
     {
-      "symbol": "SOPH-USDT-SWAP",
-      "max5": 22.6,
-      "n2": 9,
-      "count": 24,
-      "n3": 5,
-      "max15": 35.92,
-      "vol1h": 5700000.0,
-      "spread": 0.117
-    },
-    {
-      "symbol": "BTW-USDT-SWAP",
-      "max5": 5.22,
-      "n2": 8,
-      "count": 24,
-      "n3": 4,
-      "max15": 5.22,
-      "vol1h": 818000.0,
-      "spread": 0.071
-    },
-    {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 3.51,
-      "n2": 8,
+      "max5": 17.78,
+      "n2": 20,
       "count": 24,
-      "n3": 2,
-      "max15": 5.31,
-      "vol1h": 2900000.0,
-      "spread": 0.092
+      "n3": 15,
+      "max15": 31.29,
+      "vol1h": 6600000.0,
+      "spread": 0.185
+    },
+    {
+      "symbol": "SOPH-USDT-SWAP",
+      "max5": 4.27,
+      "n2": 5,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.47,
+      "vol1h": 511000.0,
+      "spread": 0.061
     },
     {
       "symbol": "WET-USDT-SWAP",
-      "max5": 6.07,
-      "n2": 4,
+      "max5": 3.65,
+      "n2": 2,
       "count": 24,
       "n3": 1,
-      "max15": 7.63,
-      "vol1h": 3600000.0,
-      "spread": 0.05
+      "max15": 4.38,
+      "vol1h": 3500000.0,
+      "spread": 0.048
     },
     {
-      "symbol": "BLUR-USDT-SWAP",
-      "max5": 2.35,
+      "symbol": "APR-USDT-SWAP",
+      "max5": 2.66,
       "n2": 2,
       "count": 24,
       "n3": 0,
-      "max15": 3.58,
-      "vol1h": 791000.0,
-      "spread": 0.034
-    },
-    {
-      "symbol": "CAP-USDT-SWAP",
-      "max5": 2.47,
-      "n2": 2,
-      "count": 24,
-      "n3": 0,
-      "max15": 3.33,
-      "vol1h": 1200000.0,
-      "spread": 0.08
+      "max15": 4.28,
+      "vol1h": 1600000.0,
+      "spread": 0.018
     }
   ],
   "values_precision": "original_printed_report",
@@ -81,5 +61,5 @@
     16,
     20
   ],
-  "daily_report_count": 3
+  "daily_report_count": 4
 }
