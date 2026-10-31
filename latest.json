@@ -2,42 +2,42 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-10-31T20:08:00+03:00",
-  "source_run_id": "41223037941",
+  "generated_at": "2026-11-01T00:06:00+03:00",
+  "source_run_id": "41242007628",
   "scanned_count": 90,
   "qualified_count": 3,
   "listed_count": 3,
   "excluded_or_unavailable_count": 87,
   "results": [
     {
-      "symbol": "RSR-USDT-SWAP",
-      "max5": 8.07,
-      "n2": 15,
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 2.45,
+      "n2": 3,
       "count": 24,
-      "n3": 10,
-      "max15": 9.98,
-      "vol1h": 5700000.0,
-      "spread": 0.063
+      "n3": 0,
+      "max15": 3.0,
+      "vol1h": 827000.0,
+      "spread": 0.088
+    },
+    {
+      "symbol": "LIT-USDT-SWAP",
+      "max5": 2.8,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.67,
+      "vol1h": 6800000.0,
+      "spread": 0.023
     },
     {
       "symbol": "WET-USDT-SWAP",
-      "max5": 3.48,
-      "n2": 3,
-      "count": 24,
-      "n3": 1,
-      "max15": 5.72,
-      "vol1h": 1000000.0,
-      "spread": 0.017
-    },
-    {
-      "symbol": "CAP-USDT-SWAP",
-      "max5": 2.68,
-      "n2": 4,
+      "max5": 2.66,
+      "n2": 2,
       "count": 24,
       "n3": 0,
-      "max15": 4.27,
-      "vol1h": 635000.0,
-      "spread": 0.069
+      "max15": 3.46,
+      "vol1h": 597000.0,
+      "spread": 0.052
     }
   ],
   "values_precision": "original_printed_report",
@@ -51,5 +51,5 @@
     16,
     20
   ],
-  "daily_report_count": 6
+  "daily_report_count": 1
 }
