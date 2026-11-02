@@ -2,62 +2,52 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-02T20:26:00+03:00",
-  "source_run_id": "41491143945",
+  "generated_at": "2026-11-03T00:17:00+03:00",
+  "source_run_id": "41526888010",
   "scanned_count": 90,
-  "qualified_count": 5,
-  "listed_count": 5,
-  "excluded_or_unavailable_count": 85,
+  "qualified_count": 4,
+  "listed_count": 4,
+  "excluded_or_unavailable_count": 86,
   "results": [
     {
+      "symbol": "GRVT-USDT-SWAP",
+      "max5": 5.4,
+      "n2": 7,
+      "count": 24,
+      "n3": 2,
+      "max15": 8.05,
+      "vol1h": 2800000.0,
+      "spread": 0.018
+    },
+    {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 5.18,
-      "n2": 12,
-      "count": 24,
-      "n3": 8,
-      "max15": 10.31,
-      "vol1h": 4800000.0,
-      "spread": 0.182
-    },
-    {
-      "symbol": "HUMA-USDT-SWAP",
-      "max5": 4.01,
-      "n2": 6,
-      "count": 24,
-      "n3": 3,
-      "max15": 6.54,
-      "vol1h": 974000.0,
-      "spread": 0.044
-    },
-    {
-      "symbol": "SOPH-USDT-SWAP",
-      "max5": 3.95,
+      "max5": 4.02,
       "n2": 2,
       "count": 24,
       "n3": 1,
-      "max15": 4.5,
-      "vol1h": 704000.0,
-      "spread": 0.064
+      "max15": 6.36,
+      "vol1h": 926000.0,
+      "spread": 0.178
     },
     {
-      "symbol": "BTW-USDT-SWAP",
-      "max5": 2.82,
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 2.92,
       "n2": 3,
       "count": 24,
       "n3": 0,
-      "max15": 4.13,
-      "vol1h": 634000.0,
-      "spread": 0.066
+      "max15": 4.55,
+      "vol1h": 67700000.0,
+      "spread": 0.014
     },
     {
-      "symbol": "PONS-USDT-SWAP",
-      "max5": 3.24,
-      "n2": 1,
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 2.72,
+      "n2": 2,
       "count": 24,
-      "n3": 1,
-      "max15": 3.56,
-      "vol1h": 1400000.0,
-      "spread": 0.045
+      "n3": 0,
+      "max15": 4.49,
+      "vol1h": 5300000.0,
+      "spread": 0.017
     }
   ],
   "values_precision": "original_printed_report",
@@ -71,5 +61,5 @@
     16,
     20
   ],
-  "daily_report_count": 6
+  "daily_report_count": 1
 }
