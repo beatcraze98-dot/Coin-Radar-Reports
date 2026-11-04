@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-04T04:38:00+03:00",
+  "source_run_id": "41755439457",
+  "scanned_count": 90,
+  "qualified_count": 10,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 80,
+  "results": [
+    {
+      "symbol": "WLFI-USDT-SWAP",
+      "max5": 5.48,
+      "n2": 7,
+      "count": 24,
+      "n3": 4,
+      "max15": 7.97,
+      "vol1h": 9300000.0,
+      "spread": 0.021
+    },
+    {
+      "symbol": "HUMA-USDT-SWAP",
+      "max5": 5.54,
+      "n2": 8,
+      "count": 24,
+      "n3": 3,
+      "max15": 7.56,
+      "vol1h": 2000000.0,
+      "spread": 0.047
+    },
+    {
+      "symbol": "AXIS-USDT-SWAP",
+      "max5": 5.2,
+      "n2": 9,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.54,
+      "vol1h": 1300000.0,
+      "spread": 0.14
+    },
+    {
+      "symbol": "KORU-USDT-SWAP",
+      "max5": 3.25,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.24,
+      "vol1h": 13700000.0,
+      "spread": 0.097
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 4.65,
+      "n2": 4,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.13,
+      "vol1h": 98700000.0,
+      "spread": 0.015
+    },
+    {
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 4.46,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 6.63,
+      "vol1h": 18300000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 3.43,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.43,
+      "vol1h": 5800000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 3.06,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.18,
+      "vol1h": 657000.0,
+      "spread": 0.049
+    },
+    {
+      "symbol": "APR-USDT-SWAP",
+      "max5": 2.86,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.21,
+      "vol1h": 794000.0,
+      "spread": 0.025
+    },
+    {
+      "symbol": "CRV-USDT-SWAP",
+      "max5": 2.94,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.97,
+      "vol1h": 746000.0,
+      "spread": 0.039
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
