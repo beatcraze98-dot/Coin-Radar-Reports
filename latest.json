@@ -2,42 +2,72 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-05T08:30:00+03:00",
-  "source_run_id": "41974387083",
+  "generated_at": "2026-11-05T12:31:00+03:00",
+  "source_run_id": "42003075286",
   "scanned_count": 90,
-  "qualified_count": 3,
-  "listed_count": 3,
-  "excluded_or_unavailable_count": 87,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 84,
   "results": [
     {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 4.84,
-      "n2": 11,
+      "max5": 13.53,
+      "n2": 12,
       "count": 24,
-      "n3": 4,
-      "max15": 9.08,
-      "vol1h": 3700000.0,
-      "spread": 0.115
+      "n3": 9,
+      "max15": 28.65,
+      "vol1h": 10300000.0,
+      "spread": 0.045
     },
     {
-      "symbol": "HUMA-USDT-SWAP",
-      "max5": 4.08,
-      "n2": 3,
+      "symbol": "CAP-USDT-SWAP",
+      "max5": 6.06,
+      "n2": 10,
       "count": 24,
       "n3": 2,
-      "max15": 6.64,
-      "vol1h": 849000.0,
-      "spread": 0.061
+      "max15": 6.06,
+      "vol1h": 3000000.0,
+      "spread": 0.041
     },
     {
-      "symbol": "AXIS-USDT-SWAP",
-      "max5": 2.2,
+      "symbol": "ARX-USDT-SWAP",
+      "max5": 4.47,
       "n2": 2,
       "count": 24,
+      "n3": 1,
+      "max15": 7.34,
+      "vol1h": 1200000.0,
+      "spread": 0.086
+    },
+    {
+      "symbol": "APP-USDT-SWAP",
+      "max5": 3.21,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.78,
+      "vol1h": 913000.0,
+      "spread": 0.057
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 3.1,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.32,
+      "vol1h": 2800000.0,
+      "spread": 0.02
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 2.85,
+      "n2": 1,
+      "count": 24,
       "n3": 0,
-      "max15": 3.21,
-      "vol1h": 566000.0,
-      "spread": 0.141
+      "max15": 3.79,
+      "vol1h": 38600000.0,
+      "spread": 0.016
     }
   ],
   "values_precision": "original_printed_report",
@@ -51,5 +81,5 @@
     16,
     20
   ],
-  "daily_report_count": 3
+  "daily_report_count": 4
 }
