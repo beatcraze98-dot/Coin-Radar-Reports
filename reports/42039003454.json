@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-05T16:48:00+03:00",
+  "source_run_id": "42039003454",
+  "scanned_count": 90,
+  "qualified_count": 10,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 80,
+  "results": [
+    {
+      "symbol": "HUMA-USDT-SWAP",
+      "max5": 4.78,
+      "n2": 17,
+      "count": 24,
+      "n3": 5,
+      "max15": 7.02,
+      "vol1h": 2900000.0,
+      "spread": 0.074
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 6.06,
+      "n2": 12,
+      "count": 24,
+      "n3": 3,
+      "max15": 8.98,
+      "vol1h": 2300000.0,
+      "spread": 0.04
+    },
+    {
+      "symbol": "CAP-USDT-SWAP",
+      "max5": 3.27,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.5,
+      "vol1h": 9300000.0,
+      "spread": 0.028
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 3.01,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.63,
+      "vol1h": 6400000.0,
+      "spread": 0.043
+    },
+    {
+      "symbol": "DGAI-USDT-SWAP",
+      "max5": 4.64,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 7.27,
+      "vol1h": 2200000.0,
+      "spread": 0.039
+    },
+    {
+      "symbol": "APP-USDT-SWAP",
+      "max5": 3.34,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.59,
+      "vol1h": 1600000.0,
+      "spread": 0.075
+    },
+    {
+      "symbol": "WLFI-USDT-SWAP",
+      "max5": 3.74,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.31,
+      "vol1h": 1800000.0,
+      "spread": 0.022
+    },
+    {
+      "symbol": "APR-USDT-SWAP",
+      "max5": 3.54,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.81,
+      "vol1h": 534000.0,
+      "spread": 0.024
+    },
+    {
+      "symbol": "TRUMP-USDT-SWAP",
+      "max5": 2.65,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.39,
+      "vol1h": 10700000.0,
+      "spread": 0.081
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 2.74,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.21,
+      "vol1h": 1000000.0,
+      "spread": 0.045
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 5
+}
