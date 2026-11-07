@@ -2,52 +2,72 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-07T16:28:00+03:00",
-  "source_run_id": "42377075700",
-  "scanned_count": 90,
-  "qualified_count": 4,
-  "listed_count": 4,
-  "excluded_or_unavailable_count": 86,
+  "generated_at": "2026-11-07T20:11:00+03:00",
+  "source_run_id": "42395062417",
+  "scanned_count": 82,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 76,
   "results": [
     {
       "symbol": "ONE-USDT-SWAP",
-      "max5": 4.95,
+      "max5": 14.6,
       "n2": 12,
       "count": 24,
-      "n3": 3,
-      "max15": 6.21,
-      "vol1h": 6200000.0,
-      "spread": 0.029
-    },
-    {
-      "symbol": "ACT-USDT-SWAP",
-      "max5": 5.82,
-      "n2": 9,
-      "count": 24,
-      "n3": 3,
-      "max15": 9.31,
-      "vol1h": 2000000.0,
-      "spread": 0.038
+      "n3": 7,
+      "max15": 16.27,
+      "vol1h": 18500000.0,
+      "spread": 0.044
     },
     {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 3.81,
-      "n2": 4,
+      "max5": 4.68,
+      "n2": 10,
       "count": 24,
-      "n3": 2,
-      "max15": 4.97,
-      "vol1h": 6000000.0,
-      "spread": 0.017
+      "n3": 5,
+      "max15": 7.18,
+      "vol1h": 17000000.0,
+      "spread": 0.018
     },
     {
       "symbol": "CAP-USDT-SWAP",
-      "max5": 5.23,
-      "n2": 3,
+      "max5": 3.89,
+      "n2": 5,
       "count": 24,
       "n3": 1,
-      "max15": 5.23,
-      "vol1h": 2100000.0,
-      "spread": 0.07
+      "max15": 5.38,
+      "vol1h": 1300000.0,
+      "spread": 0.019
+    },
+    {
+      "symbol": "ACT-USDT-SWAP",
+      "max5": 3.42,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.05,
+      "vol1h": 1400000.0,
+      "spread": 0.064
+    },
+    {
+      "symbol": "BEAT-USDT-SWAP",
+      "max5": 2.38,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 2.75,
+      "vol1h": 742000.0,
+      "spread": 0.02
+    },
+    {
+      "symbol": "PUMP-USDT-SWAP",
+      "max5": 2.36,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 2.81,
+      "vol1h": 3800000.0,
+      "spread": 0.028
     }
   ],
   "values_precision": "original_printed_report",
@@ -61,5 +81,5 @@
     16,
     20
   ],
-  "daily_report_count": 5
+  "daily_report_count": 6
 }
