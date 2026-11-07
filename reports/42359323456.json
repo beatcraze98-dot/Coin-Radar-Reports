@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-07T12:20:00+03:00",
+  "source_run_id": "42359323456",
+  "scanned_count": 90,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 84,
+  "results": [
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 10.06,
+      "n2": 11,
+      "count": 24,
+      "n3": 5,
+      "max15": 17.72,
+      "vol1h": 16900000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "ACT-USDT-SWAP",
+      "max5": 4.3,
+      "n2": 10,
+      "count": 24,
+      "n3": 4,
+      "max15": 5.77,
+      "vol1h": 3100000.0,
+      "spread": 0.053
+    },
+    {
+      "symbol": "ONE-USDT-SWAP",
+      "max5": 4.66,
+      "n2": 10,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.93,
+      "vol1h": 3600000.0,
+      "spread": 0.054
+    },
+    {
+      "symbol": "CT-USDT-SWAP",
+      "max5": 3.34,
+      "n2": 5,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.02,
+      "vol1h": 5200000.0,
+      "spread": 0.021
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 3.44,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.97,
+      "vol1h": 1100000.0,
+      "spread": 0.028
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 2.54,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.64,
+      "vol1h": 15100000.0,
+      "spread": 0.021
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 4
+}
