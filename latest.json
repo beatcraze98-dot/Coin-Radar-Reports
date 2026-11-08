@@ -2,62 +2,32 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-08T12:20:00+03:00",
-  "source_run_id": "42466759065",
-  "scanned_count": 69,
-  "qualified_count": 5,
-  "listed_count": 5,
-  "excluded_or_unavailable_count": 64,
+  "generated_at": "2026-11-08T16:27:00+03:00",
+  "source_run_id": "42485002196",
+  "scanned_count": 68,
+  "qualified_count": 2,
+  "listed_count": 2,
+  "excluded_or_unavailable_count": 66,
   "results": [
     {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 5.31,
-      "n2": 14,
+      "max5": 5.18,
+      "n2": 7,
       "count": 24,
-      "n3": 7,
-      "max15": 8.93,
-      "vol1h": 17300000.0,
-      "spread": 0.017
+      "n3": 3,
+      "max15": 5.18,
+      "vol1h": 8800000.0,
+      "spread": 0.018
     },
     {
       "symbol": "ONE-USDT-SWAP",
-      "max5": 6.66,
-      "n2": 12,
+      "max5": 2.83,
+      "n2": 3,
       "count": 24,
-      "n3": 5,
-      "max15": 9.09,
-      "vol1h": 7600000.0,
-      "spread": 0.028
-    },
-    {
-      "symbol": "BTW-USDT-SWAP",
-      "max5": 5.39,
-      "n2": 12,
-      "count": 24,
-      "n3": 4,
-      "max15": 8.46,
-      "vol1h": 1800000.0,
-      "spread": 0.034
-    },
-    {
-      "symbol": "HMSTR-USDT-SWAP",
-      "max5": 3.24,
-      "n2": 4,
-      "count": 24,
-      "n3": 2,
-      "max15": 3.91,
-      "vol1h": 863000.0,
-      "spread": 0.071
-    },
-    {
-      "symbol": "ACT-USDT-SWAP",
-      "max5": 4.94,
-      "n2": 2,
-      "count": 24,
-      "n3": 1,
-      "max15": 4.94,
-      "vol1h": 739000.0,
-      "spread": 0.026
+      "n3": 0,
+      "max15": 4.41,
+      "vol1h": 3200000.0,
+      "spread": 0.032
     }
   ],
   "values_precision": "original_printed_report",
@@ -71,5 +41,5 @@
     16,
     20
   ],
-  "daily_report_count": 4
+  "daily_report_count": 5
 }
