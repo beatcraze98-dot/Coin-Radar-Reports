@@ -2,52 +2,92 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-10T08:26:00+03:00",
-  "source_run_id": "42762171665",
+  "generated_at": "2026-11-10T12:24:00+03:00",
+  "source_run_id": "42790420548",
   "scanned_count": 90,
-  "qualified_count": 4,
-  "listed_count": 4,
-  "excluded_or_unavailable_count": 86,
+  "qualified_count": 8,
+  "listed_count": 8,
+  "excluded_or_unavailable_count": 82,
   "results": [
     {
-      "symbol": "INIT-USDT-SWAP",
-      "max5": 7.14,
-      "n2": 21,
+      "symbol": "ONE-USDT-SWAP",
+      "max5": 6.67,
+      "n2": 22,
       "count": 24,
-      "n3": 13,
-      "max15": 13.16,
-      "vol1h": 14600000.0,
-      "spread": 0.071
+      "n3": 16,
+      "max15": 13.4,
+      "vol1h": 8000000.0,
+      "spread": 0.09
+    },
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 5.34,
+      "n2": 13,
+      "count": 24,
+      "n3": 8,
+      "max15": 6.75,
+      "vol1h": 7400000.0,
+      "spread": 0.023
+    },
+    {
+      "symbol": "ACT-USDT-SWAP",
+      "max5": 3.24,
+      "n2": 9,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.05,
+      "vol1h": 1300000.0,
+      "spread": 0.039
     },
     {
       "symbol": "AKE-USDT-SWAP",
-      "max5": 10.25,
-      "n2": 15,
+      "max5": 3.23,
+      "n2": 5,
       "count": 24,
-      "n3": 9,
-      "max15": 10.52,
-      "vol1h": 5100000.0,
-      "spread": 0.04
-    },
-    {
-      "symbol": "EDGE-USDT-SWAP",
-      "max5": 4.63,
-      "n2": 10,
-      "count": 24,
-      "n3": 4,
-      "max15": 7.68,
-      "vol1h": 1400000.0,
-      "spread": 0.076
+      "n3": 1,
+      "max15": 3.23,
+      "vol1h": 2300000.0,
+      "spread": 0.08
     },
     {
       "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 4.84,
-      "n2": 7,
+      "max5": 2.68,
+      "n2": 4,
       "count": 24,
-      "n3": 3,
-      "max15": 5.25,
-      "vol1h": 4400000.0,
-      "spread": 0.01
+      "n3": 0,
+      "max15": 4.83,
+      "vol1h": 5600000.0,
+      "spread": 0.024
+    },
+    {
+      "symbol": "EDGE-USDT-SWAP",
+      "max5": 2.36,
+      "n2": 4,
+      "count": 24,
+      "n3": 0,
+      "max15": 2.95,
+      "vol1h": 636000.0,
+      "spread": 0.05
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 3.26,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.75,
+      "vol1h": 43600000.0,
+      "spread": 0.018
+    },
+    {
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 3.16,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.63,
+      "vol1h": 4200000.0,
+      "spread": 0.018
     }
   ],
   "values_precision": "original_printed_report",
@@ -61,5 +101,5 @@
     16,
     20
   ],
-  "daily_report_count": 3
+  "daily_report_count": 4
 }
