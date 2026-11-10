@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-10T04:40:00+03:00",
+  "source_run_id": "42737428048",
+  "scanned_count": 90,
+  "qualified_count": 10,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 80,
+  "results": [
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 23.54,
+      "n2": 23,
+      "count": 24,
+      "n3": 21,
+      "max15": 27.7,
+      "vol1h": 9600000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 6.44,
+      "n2": 14,
+      "count": 24,
+      "n3": 9,
+      "max15": 10.68,
+      "vol1h": 5900000.0,
+      "spread": 0.063
+    },
+    {
+      "symbol": "ANTHROPIC-USDT-SWAP",
+      "max5": 5.55,
+      "n2": 5,
+      "count": 24,
+      "n3": 4,
+      "max15": 6.78,
+      "vol1h": 4800000.0,
+      "spread": 0.007
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 5.37,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 8.87,
+      "vol1h": 7800000.0,
+      "spread": 0.034
+    },
+    {
+      "symbol": "ZHIPU-USDT-SWAP",
+      "max5": 3.34,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.98,
+      "vol1h": 2400000.0,
+      "spread": 0.05
+    },
+    {
+      "symbol": "UNITREE-USDT-SWAP",
+      "max5": 3.07,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.24,
+      "vol1h": 7400000.0,
+      "spread": 0.037
+    },
+    {
+      "symbol": "EDGE-USDT-SWAP",
+      "max5": 3.37,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.64,
+      "vol1h": 646000.0,
+      "spread": 0.05
+    },
+    {
+      "symbol": "ZHONGJI-USDT-SWAP",
+      "max5": 2.46,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 2.53,
+      "vol1h": 3300000.0,
+      "spread": 0.013
+    },
+    {
+      "symbol": "KORU-USDT-SWAP",
+      "max5": 2.48,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.63,
+      "vol1h": 8800000.0,
+      "spread": 0.013
+    },
+    {
+      "symbol": "CT-USDT-SWAP",
+      "max5": 2.7,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.59,
+      "vol1h": 1100000.0,
+      "spread": 0.009
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
