@@ -2,32 +2,72 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-12T00:56:00+03:00",
-  "source_run_id": "43107360570",
+  "generated_at": "2026-11-12T04:51:00+03:00",
+  "source_run_id": "43137373033",
   "scanned_count": 90,
-  "qualified_count": 2,
-  "listed_count": 2,
-  "excluded_or_unavailable_count": 88,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 84,
   "results": [
     {
-      "symbol": "INIT-USDT-SWAP",
-      "max5": 3.7,
-      "n2": 7,
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 11.68,
+      "n2": 17,
       "count": 24,
-      "n3": 1,
-      "max15": 6.38,
-      "vol1h": 3000000.0,
-      "spread": 0.021
+      "n3": 5,
+      "max15": 12.05,
+      "vol1h": 4099999.9999999995,
+      "spread": 0.037
     },
     {
-      "symbol": "UP-USDT-SWAP",
-      "max5": 3.68,
-      "n2": 1,
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 3.8,
+      "n2": 11,
+      "count": 24,
+      "n3": 3,
+      "max15": 6.94,
+      "vol1h": 4500000.0,
+      "spread": 0.034
+    },
+    {
+      "symbol": "ZHIPU-USDT-SWAP",
+      "max5": 4.05,
+      "n2": 4,
       "count": 24,
       "n3": 1,
-      "max15": 4.03,
-      "vol1h": 662000.0,
-      "spread": 0.132
+      "max15": 4.94,
+      "vol1h": 2800000.0,
+      "spread": 0.032
+    },
+    {
+      "symbol": "ZHONGJI-USDT-SWAP",
+      "max5": 3.71,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.86,
+      "vol1h": 6600000.0,
+      "spread": 0.011
+    },
+    {
+      "symbol": "H-USDT-SWAP",
+      "max5": 2.95,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.18,
+      "vol1h": 577000.0,
+      "spread": 0.039
+    },
+    {
+      "symbol": "KORU-USDT-SWAP",
+      "max5": 2.62,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.49,
+      "vol1h": 9000000.0,
+      "spread": 0.012
     }
   ],
   "values_precision": "original_printed_report",
@@ -41,5 +81,5 @@
     16,
     20
   ],
-  "daily_report_count": 1
+  "daily_report_count": 2
 }
