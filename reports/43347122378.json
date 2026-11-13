@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-13T04:44:00+03:00",
+  "source_run_id": "43347122378",
+  "scanned_count": 90,
+  "qualified_count": 5,
+  "listed_count": 5,
+  "excluded_or_unavailable_count": 85,
+  "results": [
+    {
+      "symbol": "BARD-USDT-SWAP",
+      "max5": 7.51,
+      "n2": 13,
+      "count": 24,
+      "n3": 7,
+      "max15": 9.0,
+      "vol1h": 6700000.0,
+      "spread": 0.15
+    },
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 3.51,
+      "n2": 5,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.94,
+      "vol1h": 2000000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "ZHONGJI-USDT-SWAP",
+      "max5": 7.25,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 7.25,
+      "vol1h": 5900000.0,
+      "spread": 0.012
+    },
+    {
+      "symbol": "ZHIPU-USDT-SWAP",
+      "max5": 3.45,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.65,
+      "vol1h": 2400000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "UNITREE-USDT-SWAP",
+      "max5": 2.61,
+      "n2": 1,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.77,
+      "vol1h": 4700000.0,
+      "spread": 0.019
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
