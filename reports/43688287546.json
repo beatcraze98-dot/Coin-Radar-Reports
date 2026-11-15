@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-15T10:04:00+03:00",
+  "source_run_id": "43688287546",
+  "scanned_count": 90,
+  "qualified_count": 7,
+  "listed_count": 7,
+  "excluded_or_unavailable_count": 83,
+  "results": [
+    {
+      "symbol": "SOPH-USDT-SWAP",
+      "max5": 10.5,
+      "n2": 22,
+      "count": 24,
+      "n3": 11,
+      "max15": 11.34,
+      "vol1h": 1600000.0,
+      "spread": 0.111
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 11.32,
+      "n2": 19,
+      "count": 24,
+      "n3": 11,
+      "max15": 13.33,
+      "vol1h": 11900000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "SHELL-USDT-SWAP",
+      "max5": 6.81,
+      "n2": 10,
+      "count": 24,
+      "n3": 8,
+      "max15": 14.73,
+      "vol1h": 1900000.0,
+      "spread": 0.038
+    },
+    {
+      "symbol": "UP-USDT-SWAP",
+      "max5": 7.31,
+      "n2": 11,
+      "count": 24,
+      "n3": 4,
+      "max15": 7.31,
+      "vol1h": 974000.0,
+      "spread": 0.168
+    },
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 3.57,
+      "n2": 9,
+      "count": 24,
+      "n3": 2,
+      "max15": 6.94,
+      "vol1h": 2300000.0,
+      "spread": 0.009
+    },
+    {
+      "symbol": "CAP-USDT-SWAP",
+      "max5": 6.07,
+      "n2": 4,
+      "count": 24,
+      "n3": 1,
+      "max15": 7.24,
+      "vol1h": 505000.0,
+      "spread": 0.019
+    },
+    {
+      "symbol": "BARD-USDT-SWAP",
+      "max5": 2.56,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.98,
+      "vol1h": 674000.0,
+      "spread": 0.089
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
