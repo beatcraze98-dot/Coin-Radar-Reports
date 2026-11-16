@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-17T00:25:00+03:00",
+  "source_run_id": "43959978815",
+  "scanned_count": 90,
+  "qualified_count": 4,
+  "listed_count": 4,
+  "excluded_or_unavailable_count": 86,
+  "results": [
+    {
+      "symbol": "SPACE-USDT-SWAP",
+      "max5": 5.72,
+      "n2": 13,
+      "count": 24,
+      "n3": 7,
+      "max15": 5.72,
+      "vol1h": 2500000.0,
+      "spread": 0.118
+    },
+    {
+      "symbol": "HUMA-USDT-SWAP",
+      "max5": 5.55,
+      "n2": 12,
+      "count": 24,
+      "n3": 3,
+      "max15": 7.35,
+      "vol1h": 6100000.0,
+      "spread": 0.029
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 4.41,
+      "n2": 1,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.76,
+      "vol1h": 767000.0,
+      "spread": 0.045
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 2.52,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.33,
+      "vol1h": 31700000.0,
+      "spread": 0.02
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 1
+}
