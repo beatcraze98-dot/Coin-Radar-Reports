@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-17T04:25:00+03:00",
+  "source_run_id": "43995495647",
+  "scanned_count": 90,
+  "qualified_count": 9,
+  "listed_count": 9,
+  "excluded_or_unavailable_count": 81,
+  "results": [
+    {
+      "symbol": "SPACE-USDT-SWAP",
+      "max5": 13.12,
+      "n2": 16,
+      "count": 24,
+      "n3": 12,
+      "max15": 17.82,
+      "vol1h": 1900000.0,
+      "spread": 0.026
+    },
+    {
+      "symbol": "HUMA-USDT-SWAP",
+      "max5": 6.47,
+      "n2": 7,
+      "count": 24,
+      "n3": 1,
+      "max15": 8.19,
+      "vol1h": 5300000.0,
+      "spread": 0.011
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 3.59,
+      "n2": 7,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.32,
+      "vol1h": 3300000.0,
+      "spread": 0.01
+    },
+    {
+      "symbol": "KORU-USDT-SWAP",
+      "max5": 2.7,
+      "n2": 5,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.54,
+      "vol1h": 8900000.0,
+      "spread": 0.015
+    },
+    {
+      "symbol": "CASHCAT-USDT-SWAP",
+      "max5": 4.18,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.18,
+      "vol1h": 1100000.0,
+      "spread": 0.081
+    },
+    {
+      "symbol": "LIT-USDT-SWAP",
+      "max5": 2.6,
+      "n2": 4,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.53,
+      "vol1h": 9900000.0,
+      "spread": 0.024
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 2.76,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.83,
+      "vol1h": 1900000.0,
+      "spread": 0.034
+    },
+    {
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 2.41,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.54,
+      "vol1h": 8000000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 2.3,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.47,
+      "vol1h": 32400000.0,
+      "spread": 0.02
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
