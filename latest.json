@@ -2,112 +2,112 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-17T16:25:00+03:00",
-  "source_run_id": "44092614489",
+  "generated_at": "2026-11-17T20:25:00+03:00",
+  "source_run_id": "44136856382",
   "scanned_count": 90,
-  "qualified_count": 12,
+  "qualified_count": 21,
   "listed_count": 10,
-  "excluded_or_unavailable_count": 78,
+  "excluded_or_unavailable_count": 69,
   "results": [
     {
-      "symbol": "MMT-USDT-SWAP",
-      "max5": 15.17,
-      "n2": 17,
+      "symbol": "BREV-USDT-SWAP",
+      "max5": 9.08,
+      "n2": 22,
       "count": 24,
-      "n3": 10,
-      "max15": 19.43,
-      "vol1h": 4200000.0,
-      "spread": 0.087
+      "n3": 17,
+      "max15": 12.63,
+      "vol1h": 12600000.0,
+      "spread": 0.021
     },
     {
-      "symbol": "BTW-USDT-SWAP",
-      "max5": 7.24,
-      "n2": 11,
+      "symbol": "MMT-USDT-SWAP",
+      "max5": 11.5,
+      "n2": 15,
+      "count": 24,
+      "n3": 11,
+      "max15": 13.2,
+      "vol1h": 11200000.0,
+      "spread": 0.137
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 5.91,
+      "n2": 18,
+      "count": 24,
+      "n3": 8,
+      "max15": 10.37,
+      "vol1h": 119400000.0,
+      "spread": 0.021
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 5.27,
+      "n2": 18,
+      "count": 24,
+      "n3": 5,
+      "max15": 9.17,
+      "vol1h": 6900000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 5.14,
+      "n2": 15,
       "count": 24,
       "n3": 6,
-      "max15": 10.07,
-      "vol1h": 1400000.0,
-      "spread": 0.089
+      "max15": 9.31,
+      "vol1h": 18500000.0,
+      "spread": 0.017
     },
     {
-      "symbol": "AXIS-USDT-SWAP",
-      "max5": 4.26,
-      "n2": 8,
-      "count": 24,
-      "n3": 3,
-      "max15": 8.76,
-      "vol1h": 1300000.0,
-      "spread": 0.075
-    },
-    {
-      "symbol": "AKE-USDT-SWAP",
-      "max5": 3.38,
+      "symbol": "KORU-USDT-SWAP",
+      "max5": 4.24,
       "n2": 9,
       "count": 24,
       "n3": 2,
-      "max15": 5.83,
-      "vol1h": 5200000.0,
-      "spread": 0.027
-    },
-    {
-      "symbol": "HUMA-USDT-SWAP",
-      "max5": 3.51,
-      "n2": 6,
-      "count": 24,
-      "n3": 1,
-      "max15": 6.48,
-      "vol1h": 2100000.0,
-      "spread": 0.025
-    },
-    {
-      "symbol": "SPACE-USDT-SWAP",
-      "max5": 5.14,
-      "n2": 4,
-      "count": 24,
-      "n3": 2,
-      "max15": 5.89,
-      "vol1h": 1200000.0,
-      "spread": 0.061
-    },
-    {
-      "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 3.55,
-      "n2": 2,
-      "count": 24,
-      "n3": 2,
-      "max15": 6.16,
-      "vol1h": 1800000.0,
-      "spread": 0.057
-    },
-    {
-      "symbol": "INIT-USDT-SWAP",
-      "max5": 6.52,
-      "n2": 2,
-      "count": 24,
-      "n3": 1,
-      "max15": 7.19,
-      "vol1h": 1300000.0,
-      "spread": 0.01
-    },
-    {
-      "symbol": "ALLO-USDT-SWAP",
-      "max5": 2.97,
-      "n2": 4,
-      "count": 24,
-      "n3": 0,
-      "max15": 4.87,
-      "vol1h": 952000.0,
-      "spread": 0.013
+      "max15": 7.86,
+      "vol1h": 11000000.0,
+      "spread": 0.015
     },
     {
       "symbol": "AXTI-USDT-SWAP",
-      "max5": 3.69,
-      "n2": 1,
+      "max5": 3.43,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.81,
+      "vol1h": 1900000.0,
+      "spread": 0.027
+    },
+    {
+      "symbol": "AAOI-USDT-SWAP",
+      "max5": 3.36,
+      "n2": 3,
       "count": 24,
       "n3": 1,
-      "max15": 5.94,
+      "max15": 5.83,
+      "vol1h": 2800000.0,
+      "spread": 0.044
+    },
+    {
+      "symbol": "TQQQ-USDT-SWAP",
+      "max5": 3.09,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.6,
       "vol1h": 1900000.0,
-      "spread": 0.026
+      "spread": 0.019
+    },
+    {
+      "symbol": "CRWV-USDT-SWAP",
+      "max5": 2.74,
+      "n2": 4,
+      "count": 24,
+      "n3": 0,
+      "max15": 6.33,
+      "vol1h": 1600000.0,
+      "spread": 0.04
     }
   ],
   "values_precision": "original_printed_report",
@@ -121,5 +121,5 @@
     16,
     20
   ],
-  "daily_report_count": 5
+  "daily_report_count": 6
 }
