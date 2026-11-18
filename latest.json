@@ -2,62 +2,72 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-18T04:25:00+03:00",
-  "source_run_id": "44215726860",
+  "generated_at": "2026-11-18T08:25:00+03:00",
+  "source_run_id": "44244183371",
   "scanned_count": 90,
-  "qualified_count": 5,
-  "listed_count": 5,
-  "excluded_or_unavailable_count": 85,
+  "qualified_count": 6,
+  "listed_count": 6,
+  "excluded_or_unavailable_count": 84,
   "results": [
     {
       "symbol": "BREV-USDT-SWAP",
-      "max5": 8.02,
-      "n2": 15,
+      "max5": 7.88,
+      "n2": 16,
       "count": 24,
-      "n3": 6,
-      "max15": 10.78,
-      "vol1h": 10600000.0,
-      "spread": 0.141
-    },
-    {
-      "symbol": "BTW-USDT-SWAP",
-      "max5": 8.41,
-      "n2": 7,
-      "count": 24,
-      "n3": 6,
-      "max15": 13.83,
-      "vol1h": 1700000.0,
-      "spread": 0.067
+      "n3": 11,
+      "max15": 13.84,
+      "vol1h": 11000000.0,
+      "spread": 0.017
     },
     {
       "symbol": "MMT-USDT-SWAP",
-      "max5": 5.03,
-      "n2": 6,
+      "max5": 11.48,
+      "n2": 12,
+      "count": 24,
+      "n3": 7,
+      "max15": 22.87,
+      "vol1h": 10400000.0,
+      "spread": 0.107
+    },
+    {
+      "symbol": "BTW-USDT-SWAP",
+      "max5": 5.56,
+      "n2": 5,
       "count": 24,
       "n3": 2,
-      "max15": 6.05,
-      "vol1h": 2600000.0,
-      "spread": 0.075
+      "max15": 7.58,
+      "vol1h": 540000.0,
+      "spread": 0.069
     },
     {
-      "symbol": "SOXS-USDT-SWAP",
-      "max5": 2.97,
-      "n2": 4,
+      "symbol": "ZHONGJI-USDT-SWAP",
+      "max5": 2.71,
+      "n2": 3,
       "count": 24,
       "n3": 0,
-      "max15": 4.19,
-      "vol1h": 4300000.0,
-      "spread": 0.018
+      "max15": 4.47,
+      "vol1h": 4400000.0,
+      "spread": 0.03
     },
     {
-      "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 3.69,
-      "n2": 1,
+      "symbol": "ZHIPU-USDT-SWAP",
+      "max5": 2.99,
+      "n2": 2,
       "count": 24,
-      "n3": 1,
-      "max15": 4.66,
-      "vol1h": 737000.0,
-      "spread": 0.062
+      "n3": 0,
+      "max15": 5.47,
+      "vol1h": 1200000.0,
+      "spread": 0.066
+    },
+    {
+      "symbol": "CXMT-USDT-SWAP",
+      "max5": 2.3,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.41,
+      "vol1h": 1200000.0,
+      "spread": 0.018
     }
   ],
   "values_precision": "original_printed_report",
@@ -71,5 +81,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
