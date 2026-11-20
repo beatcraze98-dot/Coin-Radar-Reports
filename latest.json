@@ -2,112 +2,112 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-20T04:25:00+03:00",
-  "source_run_id": "44653538862",
+  "generated_at": "2026-11-20T08:25:00+03:00",
+  "source_run_id": "44680953404",
   "scanned_count": 90,
-  "qualified_count": 13,
+  "qualified_count": 10,
   "listed_count": 10,
-  "excluded_or_unavailable_count": 77,
+  "excluded_or_unavailable_count": 80,
   "results": [
     {
-      "symbol": "IRYS-USDT-SWAP",
-      "max5": 7.93,
-      "n2": 13,
+      "symbol": "BARD-USDT-SWAP",
+      "max5": 5.68,
+      "n2": 20,
       "count": 24,
-      "n3": 10,
-      "max15": 17.46,
-      "vol1h": 6300000.0,
-      "spread": 0.042
+      "n3": 14,
+      "max15": 10.73,
+      "vol1h": 9400000.0,
+      "spread": 0.01
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 7.7,
+      "n2": 10,
+      "count": 24,
+      "n3": 6,
+      "max15": 10.68,
+      "vol1h": 2600000.0,
+      "spread": 0.05
     },
     {
       "symbol": "PIPPIN-USDT-SWAP",
-      "max5": 7.01,
-      "n2": 10,
+      "max5": 3.1,
+      "n2": 12,
       "count": 24,
-      "n3": 7,
-      "max15": 11.03,
-      "vol1h": 3700000.0,
-      "spread": 0.053
+      "n3": 2,
+      "max15": 5.14,
+      "vol1h": 1800000.0,
+      "spread": 0.103
     },
     {
       "symbol": "MMT-USDT-SWAP",
-      "max5": 4.19,
-      "n2": 6,
-      "count": 24,
-      "n3": 2,
-      "max15": 5.28,
-      "vol1h": 5400000.0,
-      "spread": 0.038
-    },
-    {
-      "symbol": "RAVE-USDT-SWAP",
-      "max5": 3.56,
-      "n2": 5,
-      "count": 24,
-      "n3": 2,
-      "max15": 4.74,
-      "vol1h": 1300000.0,
-      "spread": 0.075
-    },
-    {
-      "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 4.36,
-      "n2": 4,
-      "count": 24,
-      "n3": 2,
-      "max15": 7.68,
-      "vol1h": 7200000.0,
-      "spread": 0.027
-    },
-    {
-      "symbol": "SOXL-USDT-SWAP",
-      "max5": 3.68,
-      "n2": 3,
+      "max5": 5.44,
+      "n2": 7,
       "count": 24,
       "n3": 1,
-      "max15": 4.29,
-      "vol1h": 76400000.0,
-      "spread": 0.023
-    },
-    {
-      "symbol": "SOXS-USDT-SWAP",
-      "max5": 3.46,
-      "n2": 3,
-      "count": 24,
-      "n3": 1,
-      "max15": 3.91,
-      "vol1h": 8000000.0,
-      "spread": 0.015
+      "max15": 7.05,
+      "vol1h": 6200000.0,
+      "spread": 0.039
     },
     {
       "symbol": "SNDK-USDT-SWAP",
-      "max5": 2.85,
-      "n2": 4,
+      "max5": 4.91,
+      "n2": 5,
       "count": 24,
-      "n3": 0,
-      "max15": 4.64,
-      "vol1h": 45200000.0,
-      "spread": 0.001
+      "n3": 2,
+      "max15": 7.91,
+      "vol1h": 51900000.0,
+      "spread": 0.012
     },
     {
-      "symbol": "KORU-USDT-SWAP",
-      "max5": 2.86,
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 3.78,
+      "n2": 4,
+      "count": 24,
+      "n3": 2,
+      "max15": 6.54,
+      "vol1h": 8100000.0,
+      "spread": 0.045
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 4.98,
+      "n2": 5,
+      "count": 24,
+      "n3": 1,
+      "max15": 5.89,
+      "vol1h": 7000000.0,
+      "spread": 0.061
+    },
+    {
+      "symbol": "BTW-USDT-SWAP",
+      "max5": 5.37,
       "n2": 3,
       "count": 24,
-      "n3": 0,
-      "max15": 5.24,
-      "vol1h": 7200000.0,
-      "spread": 0.016
+      "n3": 1,
+      "max15": 6.35,
+      "vol1h": 929000.0,
+      "spread": 0.065
     },
     {
       "symbol": "HUMA-USDT-SWAP",
-      "max5": 2.95,
-      "n2": 3,
+      "max5": 3.05,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.55,
+      "vol1h": 1400000.0,
+      "spread": 0.011
+    },
+    {
+      "symbol": "RAVE-USDT-SWAP",
+      "max5": 2.13,
+      "n2": 2,
       "count": 24,
       "n3": 0,
-      "max15": 4.82,
-      "vol1h": 2300000.0,
-      "spread": 0.04
+      "max15": 4.01,
+      "vol1h": 1100000.0,
+      "spread": 0.085
     }
   ],
   "values_precision": "original_printed_report",
@@ -121,5 +121,5 @@
     16,
     20
   ],
-  "daily_report_count": 2
+  "daily_report_count": 3
 }
