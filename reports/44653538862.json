@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-20T04:25:00+03:00",
+  "source_run_id": "44653538862",
+  "scanned_count": 90,
+  "qualified_count": 13,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 77,
+  "results": [
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 7.93,
+      "n2": 13,
+      "count": 24,
+      "n3": 10,
+      "max15": 17.46,
+      "vol1h": 6300000.0,
+      "spread": 0.042
+    },
+    {
+      "symbol": "PIPPIN-USDT-SWAP",
+      "max5": 7.01,
+      "n2": 10,
+      "count": 24,
+      "n3": 7,
+      "max15": 11.03,
+      "vol1h": 3700000.0,
+      "spread": 0.053
+    },
+    {
+      "symbol": "MMT-USDT-SWAP",
+      "max5": 4.19,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.28,
+      "vol1h": 5400000.0,
+      "spread": 0.038
+    },
+    {
+      "symbol": "RAVE-USDT-SWAP",
+      "max5": 3.56,
+      "n2": 5,
+      "count": 24,
+      "n3": 2,
+      "max15": 4.74,
+      "vol1h": 1300000.0,
+      "spread": 0.075
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 4.36,
+      "n2": 4,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.68,
+      "vol1h": 7200000.0,
+      "spread": 0.027
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 3.68,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.29,
+      "vol1h": 76400000.0,
+      "spread": 0.023
+    },
+    {
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 3.46,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 3.91,
+      "vol1h": 8000000.0,
+      "spread": 0.015
+    },
+    {
+      "symbol": "SNDK-USDT-SWAP",
+      "max5": 2.85,
+      "n2": 4,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.64,
+      "vol1h": 45200000.0,
+      "spread": 0.001
+    },
+    {
+      "symbol": "KORU-USDT-SWAP",
+      "max5": 2.86,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 5.24,
+      "vol1h": 7200000.0,
+      "spread": 0.016
+    },
+    {
+      "symbol": "HUMA-USDT-SWAP",
+      "max5": 2.95,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.82,
+      "vol1h": 2300000.0,
+      "spread": 0.04
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
