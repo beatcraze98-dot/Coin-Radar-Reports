@@ -2,112 +2,112 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-20T20:11:00+03:00",
-  "source_run_id": "44780813784",
+  "generated_at": "2026-11-21T00:25:00+03:00",
+  "source_run_id": "44820213410",
   "scanned_count": 90,
-  "qualified_count": 33,
+  "qualified_count": 14,
   "listed_count": 10,
-  "excluded_or_unavailable_count": 57,
+  "excluded_or_unavailable_count": 76,
   "results": [
     {
-      "symbol": "AKE-USDT-SWAP",
-      "max5": 14.64,
-      "n2": 24,
-      "count": 24,
-      "n3": 24,
-      "max15": 21.9,
-      "vol1h": 21000000.0,
-      "spread": 0.015
-    },
-    {
-      "symbol": "SNXX-USDT-SWAP",
-      "max5": 6.49,
-      "n2": 20,
-      "count": 24,
-      "n3": 13,
-      "max15": 11.17,
-      "vol1h": 12500000.0,
-      "spread": 0.055
-    },
-    {
       "symbol": "SOXL-USDT-SWAP",
-      "max5": 5.72,
-      "n2": 22,
+      "max5": 5.31,
+      "n2": 17,
       "count": 24,
-      "n3": 10,
-      "max15": 9.53,
-      "vol1h": 172700000.0,
-      "spread": 0.029
+      "n3": 7,
+      "max15": 8.27,
+      "vol1h": 143200000.0,
+      "spread": 0.031
     },
     {
       "symbol": "UVXY-USDT-SWAP",
-      "max5": 4.15,
+      "max5": 5.71,
+      "n2": 14,
+      "count": 24,
+      "n3": 7,
+      "max15": 8.61,
+      "vol1h": 2800000.0,
+      "spread": 0.101
+    },
+    {
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 3.89,
       "n2": 15,
       "count": 24,
-      "n3": 6,
-      "max15": 8.5,
-      "vol1h": 1600000.0,
-      "spread": 0.037
+      "n3": 4,
+      "max15": 5.67,
+      "vol1h": 4600000.0,
+      "spread": 0.056
     },
     {
-      "symbol": "HUMA-USDT-SWAP",
-      "max5": 3.63,
-      "n2": 12,
-      "count": 24,
-      "n3": 5,
-      "max15": 6.32,
-      "vol1h": 2100000.0,
-      "spread": 0.01
-    },
-    {
-      "symbol": "SOXS-USDT-SWAP",
-      "max5": 3.39,
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 5.09,
       "n2": 12,
       "count": 24,
       "n3": 4,
-      "max15": 7.09,
-      "vol1h": 28500000.0,
-      "spread": 0.013
+      "max15": 6.69,
+      "vol1h": 4500000.0,
+      "spread": 0.03
     },
     {
       "symbol": "KORU-USDT-SWAP",
-      "max5": 4.09,
-      "n2": 10,
+      "max5": 3.37,
+      "n2": 8,
       "count": 24,
-      "n3": 2,
-      "max15": 6.49,
-      "vol1h": 8500000.0,
-      "spread": 0.019
+      "n3": 3,
+      "max15": 6.56,
+      "vol1h": 12000000.0,
+      "spread": 0.02
     },
     {
-      "symbol": "PIPPIN-USDT-SWAP",
-      "max5": 4.16,
+      "symbol": "BARD-USDT-SWAP",
+      "max5": 6.86,
+      "n2": 7,
+      "count": 24,
+      "n3": 3,
+      "max15": 9.01,
+      "vol1h": 3300000.0,
+      "spread": 0.011
+    },
+    {
+      "symbol": "MUU-USDT-SWAP",
+      "max5": 4.51,
       "n2": 8,
       "count": 24,
       "n3": 2,
-      "max15": 5.56,
-      "vol1h": 818000.0,
-      "spread": 0.113
+      "max15": 6.76,
+      "vol1h": 1400000.0,
+      "spread": 0.101
     },
     {
-      "symbol": "PONS-USDT-SWAP",
-      "max5": 2.74,
-      "n2": 9,
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 4.78,
+      "n2": 5,
+      "count": 24,
+      "n3": 1,
+      "max15": 6.54,
+      "vol1h": 32700000.000000004,
+      "spread": 0.013
+    },
+    {
+      "symbol": "TQQQ-USDT-SWAP",
+      "max5": 2.9,
+      "n2": 4,
       "count": 24,
       "n3": 0,
-      "max15": 4.69,
-      "vol1h": 843000.0,
-      "spread": 0.103
+      "max15": 4.38,
+      "vol1h": 6700000.0,
+      "spread": 0.048
     },
     {
       "symbol": "SKDD-USDT-SWAP",
-      "max5": 3.0,
-      "n2": 8,
+      "max5": 3.36,
+      "n2": 2,
       "count": 24,
-      "n3": 0,
-      "max15": 5.51,
-      "vol1h": 1500000.0,
-      "spread": 0.007
+      "n3": 1,
+      "max15": 4.41,
+      "vol1h": 954000.0,
+      "spread": 0.073
     }
   ],
   "values_precision": "original_printed_report",
@@ -121,5 +121,5 @@
     16,
     20
   ],
-  "daily_report_count": 6
+  "daily_report_count": 1
 }
