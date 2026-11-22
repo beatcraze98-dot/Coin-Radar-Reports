@@ -2,22 +2,42 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-22T00:25:00+03:00",
-  "source_run_id": "44951479814",
+  "generated_at": "2026-11-22T04:25:00+03:00",
+  "source_run_id": "44971410341",
   "scanned_count": 90,
-  "qualified_count": 1,
-  "listed_count": 1,
-  "excluded_or_unavailable_count": 89,
+  "qualified_count": 3,
+  "listed_count": 3,
+  "excluded_or_unavailable_count": 87,
   "results": [
     {
-      "symbol": "AKE-USDT-SWAP",
-      "max5": 3.39,
-      "n2": 3,
+      "symbol": "ENSO-USDT-SWAP",
+      "max5": 5.19,
+      "n2": 8,
       "count": 24,
-      "n3": 1,
-      "max15": 5.15,
-      "vol1h": 567000.0,
-      "spread": 0.038
+      "n3": 4,
+      "max15": 6.76,
+      "vol1h": 4600000.0,
+      "spread": 0.059
+    },
+    {
+      "symbol": "IRYS-USDT-SWAP",
+      "max5": 5.0,
+      "n2": 11,
+      "count": 24,
+      "n3": 2,
+      "max15": 9.38,
+      "vol1h": 2400000.0,
+      "spread": 0.049
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 14.05,
+      "n2": 8,
+      "count": 24,
+      "n3": 3,
+      "max15": 17.4,
+      "vol1h": 3500000.0,
+      "spread": 0.021
     }
   ],
   "values_precision": "original_printed_report",
@@ -31,5 +51,5 @@
     16,
     20
   ],
-  "daily_report_count": 1
+  "daily_report_count": 2
 }
