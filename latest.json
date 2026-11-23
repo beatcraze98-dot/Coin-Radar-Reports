@@ -2,62 +2,62 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-23T12:25:00+03:00",
-  "source_run_id": "45146918844",
+  "generated_at": "2026-11-23T16:25:00+03:00",
+  "source_run_id": "45183806273",
   "scanned_count": 90,
   "qualified_count": 5,
   "listed_count": 5,
   "excluded_or_unavailable_count": 85,
   "results": [
     {
-      "symbol": "H-USDT-SWAP",
-      "max5": 5.36,
-      "n2": 13,
-      "count": 24,
-      "n3": 5,
-      "max15": 6.34,
-      "vol1h": 1600000.0,
-      "spread": 0.074
-    },
-    {
       "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 3.5,
-      "n2": 10,
+      "max5": 5.86,
+      "n2": 15,
       "count": 24,
-      "n3": 3,
-      "max15": 6.8,
-      "vol1h": 13900000.0,
-      "spread": 0.037
+      "n3": 7,
+      "max15": 8.76,
+      "vol1h": 16100000.000000002,
+      "spread": 0.035
     },
     {
-      "symbol": "UP-USDT-SWAP",
-      "max5": 3.8,
+      "symbol": "BTW-USDT-SWAP",
+      "max5": 5.74,
+      "n2": 15,
+      "count": 24,
+      "n3": 4,
+      "max15": 7.73,
+      "vol1h": 922000.0,
+      "spread": 0.013
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 11.0,
       "n2": 7,
       "count": 24,
-      "n3": 2,
-      "max15": 4.91,
-      "vol1h": 981000.0,
-      "spread": 0.082
+      "n3": 6,
+      "max15": 17.79,
+      "vol1h": 11100000.0,
+      "spread": 0.04
     },
     {
-      "symbol": "NES-USDT-SWAP",
-      "max5": 7.45,
-      "n2": 4,
+      "symbol": "MUBARAK-USDT-SWAP",
+      "max5": 4.85,
+      "n2": 6,
       "count": 24,
-      "n3": 2,
-      "max15": 7.87,
-      "vol1h": 613000.0,
-      "spread": 0.061
+      "n3": 1,
+      "max15": 5.09,
+      "vol1h": 4400000.0,
+      "spread": 0.046
     },
     {
-      "symbol": "SOXS-USDT-SWAP",
-      "max5": 2.4,
-      "n2": 3,
+      "symbol": "MMT-USDT-SWAP",
+      "max5": 4.48,
+      "n2": 2,
       "count": 24,
-      "n3": 0,
-      "max15": 5.15,
-      "vol1h": 9700000.0,
-      "spread": 0.015
+      "n3": 1,
+      "max15": 4.72,
+      "vol1h": 2700000.0,
+      "spread": 0.05
     }
   ],
   "values_precision": "original_printed_report",
@@ -71,5 +71,5 @@
     16,
     20
   ],
-  "daily_report_count": 4
+  "daily_report_count": 5
 }
