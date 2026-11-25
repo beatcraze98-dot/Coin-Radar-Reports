@@ -2,112 +2,112 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-25T20:26:00+03:00",
-  "source_run_id": "45664638097",
+  "generated_at": "2026-11-26T00:25:00+03:00",
+  "source_run_id": "45704241820",
   "scanned_count": 90,
-  "qualified_count": 19,
+  "qualified_count": 14,
   "listed_count": 10,
-  "excluded_or_unavailable_count": 71,
+  "excluded_or_unavailable_count": 76,
   "results": [
     {
-      "symbol": "SOXL-USDT-SWAP",
-      "max5": 4.05,
-      "n2": 18,
+      "symbol": "MMT-USDT-SWAP",
+      "max5": 4.73,
+      "n2": 12,
       "count": 24,
-      "n3": 8,
-      "max15": 8.44,
-      "vol1h": 210600000.0,
-      "spread": 0.036
+      "n3": 6,
+      "max15": 9.29,
+      "vol1h": 19800000.0,
+      "spread": 0.033
     },
     {
-      "symbol": "SNXX-USDT-SWAP",
-      "max5": 4.98,
-      "n2": 19,
+      "symbol": "SSV-USDT-SWAP",
+      "max5": 4.11,
+      "n2": 8,
       "count": 24,
       "n3": 3,
-      "max15": 7.22,
-      "vol1h": 10400000.0,
-      "spread": 0.078
+      "max15": 5.7,
+      "vol1h": 881000.0,
+      "spread": 0.087
     },
     {
       "symbol": "BIGTIME-USDT-SWAP",
-      "max5": 8.3,
-      "n2": 13,
-      "count": 24,
-      "n3": 6,
-      "max15": 11.28,
-      "vol1h": 3000000.0,
-      "spread": 0.057
-    },
-    {
-      "symbol": "UVXY-USDT-SWAP",
-      "max5": 3.25,
-      "n2": 8,
-      "count": 24,
-      "n3": 3,
-      "max15": 6.76,
-      "vol1h": 1300000.0,
-      "spread": 0.035
-    },
-    {
-      "symbol": "MOODENG-USDT-SWAP",
-      "max5": 3.28,
-      "n2": 7,
-      "count": 24,
-      "n3": 3,
-      "max15": 7.78,
-      "vol1h": 1100000.0,
-      "spread": 0.067
-    },
-    {
-      "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 3.55,
+      "max5": 3.82,
       "n2": 9,
       "count": 24,
       "n3": 1,
-      "max15": 4.15,
-      "vol1h": 7200000.0,
-      "spread": 0.038
+      "max15": 5.93,
+      "vol1h": 1100000.0,
+      "spread": 0.058
     },
     {
-      "symbol": "MUU-USDT-SWAP",
-      "max5": 2.93,
-      "n2": 10,
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 4.24,
+      "n2": 6,
       "count": 24,
-      "n3": 0,
-      "max15": 6.19,
-      "vol1h": 1700000.0,
-      "spread": 0.12
-    },
-    {
-      "symbol": "KORU-USDT-SWAP",
-      "max5": 3.05,
-      "n2": 8,
-      "count": 24,
-      "n3": 1,
-      "max15": 6.77,
-      "vol1h": 10800000.0,
-      "spread": 0.021
+      "n3": 2,
+      "max15": 5.61,
+      "vol1h": 84800000.0,
+      "spread": 0.031
     },
     {
       "symbol": "SOXS-USDT-SWAP",
-      "max5": 2.73,
-      "n2": 8,
+      "max5": 3.84,
+      "n2": 6,
       "count": 24,
-      "n3": 0,
-      "max15": 5.72,
-      "vol1h": 30700000.0,
-      "spread": 0.014
+      "n3": 2,
+      "max15": 4.97,
+      "vol1h": 9800000.0,
+      "spread": 0.016
     },
     {
-      "symbol": "MMT-USDT-SWAP",
-      "max5": 4.12,
-      "n2": 5,
+      "symbol": "SNXX-USDT-SWAP",
+      "max5": 3.69,
+      "n2": 7,
       "count": 24,
       "n3": 1,
-      "max15": 4.19,
-      "vol1h": 7700000.0,
-      "spread": 0.035
+      "max15": 5.39,
+      "vol1h": 5500000.0,
+      "spread": 0.068
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 2.27,
+      "n2": 5,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.99,
+      "vol1h": 4600000.0,
+      "spread": 0.036
+    },
+    {
+      "symbol": "SKDD-USDT-SWAP",
+      "max5": 3.39,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.09,
+      "vol1h": 727000.0,
+      "spread": 0.036
+    },
+    {
+      "symbol": "MUU-USDT-SWAP",
+      "max5": 3.25,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.03,
+      "vol1h": 1100000.0,
+      "spread": 0.105
+    },
+    {
+      "symbol": "MON-USDT-SWAP",
+      "max5": 2.25,
+      "n2": 4,
+      "count": 24,
+      "n3": 0,
+      "max15": 2.82,
+      "vol1h": 1200000.0,
+      "spread": 0.092
     }
   ],
   "values_precision": "original_printed_report",
@@ -121,5 +121,5 @@
     16,
     20
   ],
-  "daily_report_count": 6
+  "daily_report_count": 1
 }
