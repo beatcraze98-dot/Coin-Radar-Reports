@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-26T12:25:00+03:00",
+  "source_run_id": "45791858105",
+  "scanned_count": 90,
+  "qualified_count": 7,
+  "listed_count": 7,
+  "excluded_or_unavailable_count": 83,
+  "results": [
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 5.47,
+      "n2": 14,
+      "count": 24,
+      "n3": 8,
+      "max15": 10.49,
+      "vol1h": 21500000.0,
+      "spread": 0.01
+    },
+    {
+      "symbol": "NES-USDT-SWAP",
+      "max5": 8.24,
+      "n2": 10,
+      "count": 24,
+      "n3": 3,
+      "max15": 9.26,
+      "vol1h": 1600000.0,
+      "spread": 0.13
+    },
+    {
+      "symbol": "MOVE-USDT-SWAP",
+      "max5": 3.85,
+      "n2": 7,
+      "count": 24,
+      "n3": 3,
+      "max15": 5.66,
+      "vol1h": 1800000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "SSV-USDT-SWAP",
+      "max5": 6.13,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 8.12,
+      "vol1h": 2100000.0,
+      "spread": 0.04
+    },
+    {
+      "symbol": "MOODENG-USDT-SWAP",
+      "max5": 6.94,
+      "n2": 5,
+      "count": 24,
+      "n3": 2,
+      "max15": 7.66,
+      "vol1h": 1400000.0,
+      "spread": 0.071
+    },
+    {
+      "symbol": "BTW-USDT-SWAP",
+      "max5": 2.58,
+      "n2": 4,
+      "count": 24,
+      "n3": 0,
+      "max15": 5.33,
+      "vol1h": 933000.0,
+      "spread": 0.047
+    },
+    {
+      "symbol": "MMT-USDT-SWAP",
+      "max5": 2.46,
+      "n2": 3,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.13,
+      "vol1h": 2900000.0,
+      "spread": 0.043
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 4
+}
