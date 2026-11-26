@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-27T00:26:00+03:00",
+  "source_run_id": "45898065057",
+  "scanned_count": 90,
+  "qualified_count": 4,
+  "listed_count": 4,
+  "excluded_or_unavailable_count": 86,
+  "results": [
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 13.65,
+      "n2": 18,
+      "count": 24,
+      "n3": 14,
+      "max15": 16.07,
+      "vol1h": 6800000.0,
+      "spread": 0.066
+    },
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 3.99,
+      "n2": 8,
+      "count": 24,
+      "n3": 4,
+      "max15": 6.85,
+      "vol1h": 3400000.0,
+      "spread": 0.028
+    },
+    {
+      "symbol": "SSV-USDT-SWAP",
+      "max5": 4.82,
+      "n2": 5,
+      "count": 24,
+      "n3": 4,
+      "max15": 6.01,
+      "vol1h": 1500000.0,
+      "spread": 0.07
+    },
+    {
+      "symbol": "NES-USDT-SWAP",
+      "max5": 6.87,
+      "n2": 5,
+      "count": 24,
+      "n3": 2,
+      "max15": 8.5,
+      "vol1h": 791000.0,
+      "spread": 0.112
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 1
+}
