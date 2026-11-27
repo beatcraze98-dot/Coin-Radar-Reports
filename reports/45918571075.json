@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "radar": "COİN RADAR",
+  "market": "OKX USDT perpetual",
+  "generated_at": "2026-11-27T03:45:00+03:00",
+  "source_run_id": "45918571075",
+  "scanned_count": 90,
+  "qualified_count": 12,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 78,
+  "results": [
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 4.45,
+      "n2": 5,
+      "count": 24,
+      "n3": 3,
+      "max15": 4.45,
+      "vol1h": 2600000.0,
+      "spread": 0.052
+    },
+    {
+      "symbol": "ME-USDT-SWAP",
+      "max5": 3.82,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 5.14,
+      "vol1h": 1600000.0,
+      "spread": 0.092
+    },
+    {
+      "symbol": "SSV-USDT-SWAP",
+      "max5": 2.84,
+      "n2": 8,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.71,
+      "vol1h": 1400000.0,
+      "spread": 0.074
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 5.43,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 6.3,
+      "vol1h": 8199999.999999999,
+      "spread": 0.026
+    },
+    {
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 3.4,
+      "n2": 3,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.69,
+      "vol1h": 1400000.0,
+      "spread": 0.067
+    },
+    {
+      "symbol": "SLX-USDT-SWAP",
+      "max5": 5.19,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 6.61,
+      "vol1h": 624000.0,
+      "spread": 0.119
+    },
+    {
+      "symbol": "SKDD-USDT-SWAP",
+      "max5": 3.46,
+      "n2": 2,
+      "count": 24,
+      "n3": 1,
+      "max15": 4.31,
+      "vol1h": 641000.0,
+      "spread": 0.035
+    },
+    {
+      "symbol": "MOVE-USDT-SWAP",
+      "max5": 2.65,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 4.13,
+      "vol1h": 1100000.0,
+      "spread": 0.036
+    },
+    {
+      "symbol": "SOXS-USDT-SWAP",
+      "max5": 2.34,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.41,
+      "vol1h": 3000000.0,
+      "spread": 0.017
+    },
+    {
+      "symbol": "SOXL-USDT-SWAP",
+      "max5": 2.23,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.2,
+      "vol1h": 19000000.0,
+      "spread": 0.03
+    }
+  ],
+  "values_precision": "original_printed_report",
+  "volume_is_rounded": true,
+  "schedule_timezone": "Europe/Istanbul",
+  "schedule_hours": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "daily_report_count": 2
+}
