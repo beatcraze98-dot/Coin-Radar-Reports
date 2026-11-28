@@ -2,82 +2,112 @@
   "schema_version": 1,
   "radar": "COİN RADAR",
   "market": "OKX USDT perpetual",
-  "generated_at": "2026-11-28T12:25:00+03:00",
-  "source_run_id": "46130424041",
+  "generated_at": "2026-11-28T16:25:00+03:00",
+  "source_run_id": "46149561473",
   "scanned_count": 90,
-  "qualified_count": 7,
-  "listed_count": 7,
-  "excluded_or_unavailable_count": 83,
+  "qualified_count": 11,
+  "listed_count": 10,
+  "excluded_or_unavailable_count": 79,
   "results": [
     {
-      "symbol": "WLFI-USDT-SWAP",
-      "max5": 6.57,
-      "n2": 23,
+      "symbol": "O-USDT-SWAP",
+      "max5": 5.65,
+      "n2": 18,
       "count": 24,
-      "n3": 17,
-      "max15": 8.98,
-      "vol1h": 25200000.0,
-      "spread": 0.048
+      "n3": 12,
+      "max15": 10.13,
+      "vol1h": 3600000.0,
+      "spread": 0.067
     },
     {
-      "symbol": "AKE-USDT-SWAP",
-      "max5": 19.23,
-      "n2": 12,
+      "symbol": "LAB-USDT-SWAP",
+      "max5": 11.52,
+      "n2": 17,
       "count": 24,
-      "n3": 7,
-      "max15": 28.0,
-      "vol1h": 11900000.0,
-      "spread": 0.1
+      "n3": 12,
+      "max15": 14.64,
+      "vol1h": 2500000.0,
+      "spread": 0.057
     },
     {
-      "symbol": "INIT-USDT-SWAP",
-      "max5": 3.58,
-      "n2": 8,
+      "symbol": "BLUR-USDT-SWAP",
+      "max5": 5.84,
+      "n2": 14,
       "count": 24,
-      "n3": 1,
-      "max15": 6.07,
-      "vol1h": 1200000.0,
-      "spread": 0.034
+      "n3": 3,
+      "max15": 12.71,
+      "vol1h": 1000000.0,
+      "spread": 0.051
     },
     {
       "symbol": "BTW-USDT-SWAP",
-      "max5": 3.37,
-      "n2": 6,
+      "max5": 3.8,
+      "n2": 12,
       "count": 24,
-      "n3": 1,
-      "max15": 4.33,
-      "vol1h": 3600000.0,
-      "spread": 0.007
+      "n3": 4,
+      "max15": 6.59,
+      "vol1h": 7700000.0,
+      "spread": 0.019
     },
     {
-      "symbol": "PIEVERSE-USDT-SWAP",
-      "max5": 4.3,
-      "n2": 4,
+      "symbol": "AKE-USDT-SWAP",
+      "max5": 4.24,
+      "n2": 7,
+      "count": 24,
+      "n3": 3,
+      "max15": 5.9,
+      "vol1h": 1600000.0,
+      "spread": 0.09
+    },
+    {
+      "symbol": "INIT-USDT-SWAP",
+      "max5": 3.93,
+      "n2": 6,
+      "count": 24,
+      "n3": 2,
+      "max15": 6.49,
+      "vol1h": 1000000.0,
+      "spread": 0.023
+    },
+    {
+      "symbol": "WLFI-USDT-SWAP",
+      "max5": 3.11,
+      "n2": 7,
       "count": 24,
       "n3": 1,
-      "max15": 6.51,
-      "vol1h": 10600000.0,
-      "spread": 0.013
+      "max15": 4.04,
+      "vol1h": 10500000.0,
+      "spread": 0.051
     },
     {
       "symbol": "SSV-USDT-SWAP",
-      "max5": 3.33,
-      "n2": 3,
+      "max5": 5.25,
+      "n2": 1,
       "count": 24,
       "n3": 1,
-      "max15": 5.3,
-      "vol1h": 626000.0,
-      "spread": 0.072
+      "max15": 6.57,
+      "vol1h": 611000.0,
+      "spread": 0.035
     },
     {
-      "symbol": "MMT-USDT-SWAP",
-      "max5": 3.05,
-      "n2": 3,
+      "symbol": "NIGHT-USDT-SWAP",
+      "max5": 3.19,
+      "n2": 1,
       "count": 24,
       "n3": 1,
-      "max15": 4.46,
-      "vol1h": 2500000.0,
-      "spread": 0.071
+      "max15": 3.19,
+      "vol1h": 1400000.0,
+      "spread": 0.046
+    },
+    {
+      "symbol": "PIEVERSE-USDT-SWAP",
+      "max5": 2.21,
+      "n2": 2,
+      "count": 24,
+      "n3": 0,
+      "max15": 3.19,
+      "vol1h": 5300000.0,
+      "spread": 0.013
     }
   ],
   "values_precision": "original_printed_report",
@@ -91,5 +121,5 @@
     16,
     20
   ],
-  "daily_report_count": 4
+  "daily_report_count": 5
 }
